@@ -41,6 +41,15 @@ TOOLS = [
             "required": [],
         },
     },
+    {
+        "name": "get_certification",
+        "description": "Returns information about how to get an ISACA certification — steps, requirements, application process, and tips for obtaining ISACA certifications.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "required": [],
+        },
+    },
 ]
 
 
@@ -56,6 +65,8 @@ def run_tool(name: str) -> dict:
         text = read_data_file("about_isaca.txt")
     elif name == "about_cisa":
         text = read_data_file("about_cisa.txt")
+    elif name == "get_certification":
+        text = read_data_file("ISACA Get certification.txt")
     else:
         return None
     return {"type": "text", "text": text}
