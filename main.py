@@ -42,12 +42,44 @@ TOOLS = [
         },
     },
     {
+        "name": "get_cobit_data",
+        "description": "Returns detailed information about COBIT (Control Objectives for Information and Related Technologies) — the ISACA framework for governance and management of enterprise IT, including COBIT 2019, core components, governance vs. management, and key objectives.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "required": [],
+        },
+    },
+    {
+        "name": "get_data_certification_exam_prep",
+        "description": "Returns CISA exam preparation resources including official study materials, exam domain breakdowns, study tips, exam format, and CPE requirements.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "required": [],
+        },
+    },
+    {
         "name": "get_certification",
         "description": "Returns information about how to get an ISACA certification — steps, requirements, application process, and tips for obtaining ISACA certifications.",
         "inputSchema": {
             "type": "object",
             "properties": {},
             "required": [],
+        },
+    },
+    {
+        "name": "generate_audit_checklist",
+        "description": "Generates an audit checklist for a given IT control domain such as cloud security, access management, data privacy, or network security.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {
+                "domain": {
+                    "type": "string",
+                    "description": "The IT control domain to generate a checklist for, e.g. 'cloud security', 'access management', 'data privacy', 'network security'.",
+                }
+            },
+            "required": ["domain"],
         },
     },
 ]
@@ -60,25 +92,13 @@ def read_data_file(filename: str) -> str:
     return path.read_text(encoding="utf-8")
 
 
-# Audit-checklist data lives alongside the other tool data under isaca_data/.
-_AUDIT_DATA = json.loads(read_data_file("audit_checklists.json"))
-
-# Educational disclaimer attached to every checklist response.
-CHECKLIST_DISCLAIMER = _AUDIT_DATA["disclaimer"]
-
-# Keyword/alias -> canonical domain. Used for fuzzy (non-exact) matching.
-DOMAIN_ALIASES = _AUDIT_DATA["aliases"]
-
-# Ordered audit steps per domain (plus the "general" fallback).
-AUDIT_CHECKLISTS = _AUDIT_DATA["checklists"]
-
-
 def match_domain(domain: str) -> tuple:
-    """Normalize the input and match it to a known domain via keyword/alias
-    matching. Returns (canonical_domain, matched) where matched is False when
-    the general fallback is used."""
     normalized = " ".join(domain.lower().split())
-    for canonical, aliases in DOMAIN_ALIASES.items():
+    checklist_path = DATA_DIR / "audit_checklists.json"
+    if not checklist_path.exists():
+        return "general", False
+    data = json.loads(checklist_path.read_text(encoding="utf-8"))
+    for canonical, aliases in data.get("aliases", {}).items():
         for alias in aliases:
             if alias in normalized:
                 return canonical, True
@@ -86,24 +106,27 @@ def match_domain(domain: str) -> tuple:
 
 
 def generate_audit_checklist(arguments: dict) -> dict:
-    """Build the structured audit-checklist response for a control domain."""
     domain = arguments.get("domain")
     if not isinstance(domain, str) or not domain.strip():
         return {
             "type": "text",
             "text": json.dumps({
-                "error": "Invalid input: 'domain' must be a non-empty string, "
-                         "e.g. \"cloud security\" or \"access management\".",
+                "error": "Invalid input: 'domain' must be a non-empty string, e.g. 'cloud security' or 'access management'.",
             }, indent=2),
         }
 
+    checklist_path = DATA_DIR / "audit_checklists.json"
+    if not checklist_path.exists():
+        return {"type": "text", "text": "Error: audit_checklists.json not found."}
+
+    data = json.loads(checklist_path.read_text(encoding="utf-8"))
     canonical, matched = match_domain(domain)
     payload = {
         "domain": canonical,
         "requested_domain": domain.strip(),
         "matched": matched,
-        "steps": AUDIT_CHECKLISTS[canonical],
-        "note": CHECKLIST_DISCLAIMER,
+        "steps": data["checklists"][canonical],
+        "note": data.get("disclaimer", ""),
     }
     return {"type": "text", "text": json.dumps(payload, indent=2)}
 
@@ -114,8 +137,14 @@ def run_tool(name: str, arguments: dict = None) -> dict:
         text = read_data_file("about_isaca.txt")
     elif name == "about_cisa":
         text = read_data_file("about_cisa.txt")
+    elif name == "get_cobit_data":
+        text = read_data_file("Cobit.txt")
+    elif name == "get_data_certification_exam_prep":
+        text = read_data_file("exam_prep.txt")
     elif name == "get_certification":
         text = read_data_file("ISACA Get certification.txt")
+    elif name == "generate_audit_checklist":
+        return generate_audit_checklist(arguments)
     else:
         return None
     return {"type": "text", "text": text}
