@@ -1,4 +1,3 @@
-import os
 import json
 from pathlib import Path
 from fastapi import FastAPI, Request
@@ -80,17 +79,8 @@ TOOLS = [
     },
     {
         "name": "generate_audit_checklist",
-        "description": "Generates an audit checklist for a given IT control domain such as cloud security, access management, data privacy, or network security.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {
-                "domain": {
-                    "type": "string",
-                    "description": "The IT control domain, e.g. 'cloud security', 'access management', 'data privacy', 'network security'.",
-                }
-            },
-            "required": ["domain"],
-        },
+        "description": "Returns ISACA-aligned audit checklists for cloud security, access management, data privacy, network security, and general IT audits.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
 ]
 
@@ -100,43 +90,6 @@ def read_data_file(filename: str) -> str:
     if not path.exists():
         return f"Error: {filename} not found."
     return path.read_text(encoding="utf-8")
-
-
-def match_domain(domain: str) -> tuple:
-    normalized = " ".join(domain.lower().split())
-    checklist_path = DATA_DIR / "audit_checklists.json"
-    if not checklist_path.exists():
-        return "general", False
-    data = json.loads(checklist_path.read_text(encoding="utf-8"))
-    for canonical, aliases in data.get("aliases", {}).items():
-        for alias in aliases:
-            if alias in normalized:
-                return canonical, True
-    return "general", False
-
-
-def generate_audit_checklist(arguments: dict) -> dict:
-    domain = arguments.get("domain")
-    if not isinstance(domain, str) or not domain.strip():
-        return {
-            "type": "text",
-            "text": json.dumps({
-                "error": "Invalid input: 'domain' must be a non-empty string, e.g. 'cloud security' or 'access management'.",
-            }, indent=2),
-        }
-    checklist_path = DATA_DIR / "audit_checklists.json"
-    if not checklist_path.exists():
-        return {"type": "text", "text": "Error: audit_checklists.json not found."}
-    data = json.loads(checklist_path.read_text(encoding="utf-8"))
-    canonical, matched = match_domain(domain)
-    payload = {
-        "domain": canonical,
-        "requested_domain": domain.strip(),
-        "matched": matched,
-        "steps": data["checklists"][canonical],
-        "note": data.get("disclaimer", ""),
-    }
-    return {"type": "text", "text": json.dumps(payload, indent=2)}
 
 
 def run_tool(name: str, arguments: dict = None) -> dict:
@@ -164,7 +117,7 @@ def run_tool(name: str, arguments: dict = None) -> dict:
     elif name == "cpe_policy":
         text = read_data_file("cpe_policy.txt")
     elif name == "generate_audit_checklist":
-        return generate_audit_checklist(arguments)
+        text = read_data_file("audit_checklists.txt")
     else:
         return None
     return {"type": "text", "text": text}
