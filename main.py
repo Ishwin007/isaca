@@ -42,44 +42,12 @@ TOOLS = [
         },
     },
     {
-        "name": "get_cobit_data",
-        "description": "Returns detailed information about COBIT (Control Objectives for Information and Related Technologies) — the ISACA framework for governance and management of enterprise IT, including COBIT 2019, core components, governance vs. management, and key objectives.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
-    },
-    {
         "name": "get_data_certification_exam_prep",
         "description": "Returns CISA exam preparation resources including official study materials, exam domain breakdowns, study tips, exam format, and CPE requirements.",
         "inputSchema": {
             "type": "object",
             "properties": {},
             "required": [],
-        },
-    },
-    {
-        "name": "get_certification",
-        "description": "Returns information about how to get an ISACA certification — steps, requirements, application process, and tips for obtaining ISACA certifications.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
-    },
-    {
-        "name": "generate_audit_checklist",
-        "description": "Generates an audit checklist for a given IT control domain such as cloud security, access management, data privacy, or network security.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {
-                "domain": {
-                    "type": "string",
-                    "description": "The IT control domain to generate a checklist for, e.g. 'cloud security', 'access management', 'data privacy', 'network security'.",
-                }
-            },
-            "required": ["domain"],
         },
     },
 ]
@@ -137,14 +105,8 @@ def run_tool(name: str, arguments: dict = None) -> dict:
         text = read_data_file("about_isaca.txt")
     elif name == "about_cisa":
         text = read_data_file("about_cisa.txt")
-    elif name == "get_cobit_data":
-        text = read_data_file("Cobit.txt")
     elif name == "get_data_certification_exam_prep":
         text = read_data_file("exam_prep.txt")
-    elif name == "get_certification":
-        text = read_data_file("ISACA Get certification.txt")
-    elif name == "generate_audit_checklist":
-        return generate_audit_checklist(arguments)
     else:
         return None
     return {"type": "text", "text": text}
