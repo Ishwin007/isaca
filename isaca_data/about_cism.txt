@@ -1,0 +1,48 @@
+CISM — Certified Information Security Manager
+Source: https://www.isaca.org/credentialing/cism
+
+CISM is a globally recognized certification for professionals who design, build and manage enterprise information security programs. It validates your ability to manage and govern an organization's information security — going beyond technical skills to focus on strategy and leadership.
+
+US$149K+	119K+	73%	26%
+Average Annual Salary	Professionals Hold CISM	Experienced On-the-Job Improvement	Received a Pay Boost
+
+Exam Domains
+•	Information Security Governance
+•	Information Security Risk Management
+•	Information Security Program
+•	Incident Management
+
+Certification Requirements
+•	Pass the CISM certification exam
+•	Pay the US$50 application processing fee
+•	Submit application demonstrating required work experience (5 years in information security management, with at least 3 years in 3 or more domain areas)
+•	Adhere to the Code of Professional Ethics
+•	Adhere to the Continuing Professional Education (CPE) Policy
+Candidates have five years from passing the exam to apply for certification. Substitutions and waivers are available for up to 2 years of work experience.
+
+Exam Registration
+Exam Cost
+•	Member: US$575.00
+•	Non-Member: US$760.00
+
+Registration Process
+CISM exams are computer-based and administered at authorized PSI testing centers globally or as remotely proctored exams. Registration is continuous — candidates can register any time with no restrictions. Candidates can schedule a testing appointment as early as 48 hours after payment.
+1.	Log in to your ISACA Account
+2.	Click Certification & CPE Management
+3.	Click Schedule Your Exam or Visit Exam Website (PSI dashboard)
+4.	On the PSI dashboard, click Schedule Exam
+
+Eligibility
+Upon registration, candidates have a six-month eligibility period to take the exam. Exam appointments are available up to 90 days in advance. Rescheduling is permitted without penalty if done at least 48 hours prior to the scheduled appointment.
+
+Why Certify with CISM?
+•	Globally recognized management-level certification
+•	Demonstrates ability to assess risks and implement effective security programs
+•	Validates leadership and strategic thinking in information security
+•	Highly sought after by employers across all industries
+•	Recognized as one of the top-paying IT certifications worldwide
+•	ANAB accredited for internationally recognized credibility
+
+ANAB Accreditation
+CISM is ANAB (ANSI National Accreditation Board) accredited, providing an internationally recognized mark of credibility and quality.
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA  |  +1-847-660-5505  |  www.isaca.org

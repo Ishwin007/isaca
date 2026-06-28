@@ -82,6 +82,60 @@ TOOLS = [
             "required": ["domain"],
         },
     },
+    {
+        "name": "about_cism",
+        "description": "Returns detailed information about the CISM (Certified Information Security Manager) certification — exam details, domains, eligibility, and benefits.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "required": [],
+        },
+    },
+    {
+        "name": "about_crisc",
+        "description": "Returns detailed information about the CRISC (Certified in Risk and Information Systems Control) certification — exam details, domains, eligibility, and benefits.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "required": [],
+        },
+    },
+    {
+        "name": "about_cgeit",
+        "description": "Returns detailed information about the CGEIT (Certified in the Governance of Enterprise IT) certification — exam details, domains, eligibility, and benefits.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "required": [],
+        },
+    },
+    {
+        "name": "membership_benefits",
+        "description": "Returns information about ISACA membership benefits, fees, and how to join.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "required": [],
+        },
+    },
+    {
+        "name": "training_resources",
+        "description": "Returns information about ISACA training options including online courses, instructor-led training, exam prep materials, webinars, and conferences.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "required": [],
+        },
+    },
+    {
+        "name": "cpe_policy",
+        "description": "Returns ISACA's Continuing Professional Education (CPE) policy — annual requirements, eligible activities, reporting process, and consequences of non-compliance.",
+        "inputSchema": {
+            "type": "object",
+            "properties": {},
+            "required": [],
+        },
+    },
 ]
 
 
@@ -145,6 +199,18 @@ def run_tool(name: str, arguments: dict = None) -> dict:
         text = read_data_file("ISACA Get certification.txt")
     elif name == "generate_audit_checklist":
         return generate_audit_checklist(arguments)
+    elif name == "about_cism":
+        text = read_data_file("about_cism.txt")
+    elif name == "about_crisc":
+        text = read_data_file("about_crisc.txt")
+    elif name == "about_cgeit":
+        text = read_data_file("about_cgeit.txt")
+    elif name == "membership_benefits":
+        text = read_data_file("membership_benefits.txt")
+    elif name == "training_resources":
+        text = read_data_file("training_resources.txt")
+    elif name == "cpe_policy":
+        text = read_data_file("cpe_policy.txt")
     else:
         return None
     return {"type": "text", "text": text}
