@@ -1,0 +1,37 @@
+AAIA — Advanced in AI Audit
+Source: https://www.isaca.org/credentialing/aaia
+
+The World's First Advanced AI Audit Certification. AAIA is designed for IT auditors and advisors to develop expertise in assessing artificial intelligence systems. It equips professionals to evaluate AI governance, risks, and controls within organizations adopting AI technologies.
+
+Exam Domains
+•	AI Governance and Risk
+•	AI Operations
+•	AI Auditing Tools and Techniques
+
+Prerequisites — Who Can Apply?
+Candidates must hold one of the following active designations:
+•	CISA (all holders qualify automatically)
+•	CIA (Certified Internal Auditor)
+•	US CPA, Canadian CPA, Australian CPA/FCPA, Japanese CPA
+•	ACCA/FCCA
+•	Other recognized international accounting/audit certifications with IT audit/advisory role focus
+
+Note: Candidates not yet holding a qualifying designation should consider earning CISA first.
+
+Exam Cost
+•	Member: US$459.00
+•	Non-Member: US$599.00
+•	Application Processing Fee: US$50.00
+
+Registration
+Exam registration is continuous with no restrictions. Candidates receive a six-month eligibility period from registration to complete the exam. Scheduling available as early as 48 hours after payment. Candidates have five years from passing to apply for certification.
+
+Why Pursue AAIA?
+•	World's first advanced certification dedicated to AI auditing
+•	Validates ability to audit AI systems, models, and governance frameworks
+•	Addresses one of the fastest-growing risk areas organizations face today
+•	Demonstrates career relevance as AI becomes central to business operations
+•	Highly valued by internal audit teams, regulators, and advisory firms
+•	Builds on existing audit credentials with specialized AI knowledge
+
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA  |  +1-847-660-5505  |  www.isaca.org

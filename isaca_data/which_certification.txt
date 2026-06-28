@@ -1,0 +1,113 @@
+Which ISACA Certification is Right for Me?
+Source: https://www.isaca.org/credentialing
+
+Use this guide to find the best ISACA certification based on your current role, career goals, and experience level.
+
+STEP 1 — WHAT IS YOUR CURRENT ROLE?
+
+I work in IT Audit or Internal Audit
+→ Start with CISA. It is the global standard for IT auditors and the most recognized audit credential in the world.
+→ After CISA: Consider AAIA (AI Audit) to specialize in auditing artificial intelligence systems.
+
+I work in Information Security or Cybersecurity
+→ If you are in a management or leadership role: Start with CISM.
+→ If you are a hands-on analyst working in a SOC: Start with CCOA.
+→ After CISM: Consider AAISM (AI Security Management) for AI-specific expertise.
+
+I work in IT Risk Management or GRC (Governance, Risk, Compliance)
+→ Start with CRISC. It is the leading certification for IT risk professionals.
+→ After CRISC: Consider AAIR (AI Risk) to specialize in managing AI-related risks.
+
+I work in IT Governance or Senior IT Leadership (CIO, IT Director)
+→ Start with CGEIT. It is designed for professionals governing enterprise IT at a strategic level.
+→ Consider CISA or CISM first if you don't already hold one.
+
+I work in Data Privacy or Data Protection
+→ Start with CDPSE. It is the only technical privacy certification focused on implementing privacy by design.
+→ Pairs well with CISA or CRISC.
+
+I am new to cybersecurity or just starting out
+→ Start with CCOA. It has no experience requirement, a lower exam cost, and focuses on practical, hands-on skills used daily in cybersecurity roles.
+
+I want to specialize in Artificial Intelligence
+→ If you are an auditor: Earn CISA first, then pursue AAIA.
+→ If you are in risk: Earn CRISC first, then pursue AAIR.
+→ If you are in security management: Earn CISM first, then pursue AAISM.
+
+---
+
+STEP 2 — WHAT IS YOUR EXPERIENCE LEVEL?
+
+0-2 Years of Experience
+→ Best option: CCOA (no experience requirement)
+→ Start building experience toward CISA, CISM, or CRISC
+→ Consider student ISACA membership while studying
+
+3-5 Years of Experience
+→ CISA — if in audit, compliance, or assurance
+→ CISM — if in security or moving into security management
+→ CRISC — if in risk, GRC, or compliance
+→ CDPSE — if in privacy, data protection, or technical roles
+
+5+ Years of Experience
+→ CGEIT — for senior IT leaders and governance professionals
+→ AAIA, AAIR, or AAISM — for specialists wanting advanced AI credentials
+
+---
+
+STEP 3 — WHAT IS YOUR GOAL?
+
+I want a pay raise
+→ CRISC holders report the highest average salaries (US$151K+)
+→ CISM and CISA are close behind (US$149K+)
+→ All three are proven to result in pay increases for a significant portion of holders
+
+I want to move into management
+→ CISM is the clearest path to security management and CISO roles
+→ CGEIT for IT governance and board-level advisory
+
+I want to be recognized globally
+→ CISA is the most globally recognized ISACA certification — accepted in 186 countries
+→ CISM is a close second for global recognition
+
+I want to specialize in a growing area
+→ AI certifications (AAIA, AAIR, AAISM) — fastest growing demand
+→ CDPSE — growing demand driven by global privacy regulations
+→ CCOA — cybersecurity operations roles are among the fastest growing in tech
+
+I want to audit AI systems
+→ Earn CISA first → then pursue AAIA
+
+I want to manage AI risks
+→ Earn CRISC first → then pursue AAIR
+
+---
+
+RECOMMENDED STARTING POINTS BY PROFILE
+
+Profile	Recommended First Certification
+IT Auditor	CISA
+Internal Auditor (non-IT background)	CISA
+Security Analyst / SOC Analyst	CCOA
+Security Manager	CISM
+Risk Manager / GRC Analyst	CRISC
+Privacy Professional	CDPSE
+IT Director / CIO	CGEIT
+Student / Career Changer	CCOA
+AI Professional (Audit focus)	CISA → AAIA
+AI Professional (Risk focus)	CRISC → AAIR
+AI Professional (Security focus)	CISM → AAISM
+
+---
+
+PRACTICAL TIPS
+
+1. Become an ISACA member first — saves US$185 per exam for CISA/CISM/CRISC/CGEIT/CDPSE
+2. Use ISACA's official review manuals and question banks — they are the most aligned with the exam
+3. Join your local ISACA chapter — study groups, networking, and CPE opportunities
+4. You do not need to pass the exam before applying for membership — join first, save on the exam
+5. Check the work experience requirements for your chosen certification before registering
+
+For personalized guidance, visit www.isaca.org/credentialing or contact your local ISACA chapter.
+
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA  |  +1-847-660-5505  |  www.isaca.org

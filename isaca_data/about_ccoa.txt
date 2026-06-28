@@ -1,0 +1,61 @@
+CCOA — Certified Cybersecurity Operations Analyst
+Source: https://www.isaca.org/credentialing/ccoa
+
+Launched in 2025, the Certified Cybersecurity Operations Analyst (CCOA) is a technical credential that validates expertise in evaluating threats, identifying vulnerabilities, and recommending countermeasures. It focuses on real-world, hands-on skills for analyzing, detecting, and responding to cyber incidents.
+
+Who is CCOA For?
+•	Cybersecurity analysts
+•	Information security analysts
+•	SOC (Security Operations Center) analysts
+•	Vulnerability analysts
+•	Incident response analysts
+
+Exam Domains
+•	Technology Essentials — foundational technology knowledge
+•	Cybersecurity Principles and Risks — core security concepts
+•	Adversarial Tactics, Techniques and Procedures — threat actor methodologies (MITRE ATT&CK)
+•	Incident Detection and Response — identifying and managing security events
+•	Securing Assets — protection and defense strategies
+
+Exam Format
+•	Duration: 4 hours
+•	Hybrid format combining multiple-choice and performance-based questions
+•	Candidates demonstrate proficiency with 30+ open-source tools including Wireshark, Security Onion, CyberChef, Kibana, and various Linux/Windows utilities
+
+Exam Cost
+•	Member: US$399.00
+•	Non-Member: US$499.00
+•	Application Processing Fee: US$50.00
+
+Registration Process
+CCOA exams are computer-based and administered at authorized PSI testing centers globally or as remotely proctored exams. Registration is continuous — candidates can register any time with no restrictions.
+1.	Log in to your ISACA Account
+2.	Click Certification & CPE Management
+3.	Click Schedule Your Exam or Visit Exam Website (PSI dashboard)
+4.	On the PSI dashboard, click Schedule Exam
+
+Eligibility
+Upon registration, candidates have a six-month eligibility period to take the exam. Free rescheduling with at least 48 hours notice.
+
+Certification Requirements
+•	Pass the CCOA certification exam
+•	Pay the US$50 application processing fee
+•	Adhere to the Code of Professional Ethics
+•	Adhere to the Continuing Professional Education (CPE) Policy
+Candidates have five years from passing the exam to apply for certification.
+
+Study Resources Available
+•	Official online review course with 13 hands-on labs
+•	Practice questions database (200+ questions)
+•	Official review manual (digital and print)
+•	Free practice quiz (5 sample questions)
+•	Exam candidate guide
+
+Why Certify with CCOA?
+•	First certification combining theory and hands-on tool proficiency for SOC analysts
+•	Validates practical cybersecurity skills employers need immediately
+•	Lower exam cost than most ISACA certifications — accessible entry point
+•	Launched in 2025 — early adopters gain a competitive advantage
+•	Ideal stepping stone before pursuing CISM or CRISC
+
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA  |  +1-847-660-5505  |  www.isaca.org

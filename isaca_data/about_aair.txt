@@ -1,0 +1,41 @@
+AAIR — Advanced in AI Risk
+Source: https://www.isaca.org/credentialing/aair
+
+The Advanced in AI Risk (AAIR) is a practice-driven credential designed for experienced IT risk professionals. It enables practitioners to work cross-functionally to recommend responses to AI risk while developing expertise in AI technologies and their unique challenges.
+
+Exam Domains
+•	AI Risk Governance and Framework Integration — establishing governance structures for AI-related risks
+•	AI Life Cycle Risk Management — managing risks throughout AI system development and deployment
+•	AI Risk Program Management — building and maintaining comprehensive AI risk programs
+
+Prerequisites — Who Can Apply?
+Candidates must hold one of the following active designations:
+
+ISACA Certifications:
+•	CISA, CISM, CRISC, CGEIT, or CDPSE
+
+Global Designations:
+•	CRMP, CISSP, CIA
+•	CPA (US, Canadian, Japanese)
+•	CGMA, ACCA, ACA, CA ANZ, CPA HKICPA
+•	PMI-RMP and other recognized risk management credentials
+
+Note: Candidates not yet holding a qualifying designation should consider earning CRISC first, as it directly aligns with AI risk management.
+
+Exam Cost
+•	Member: US$459.00
+•	Non-Member: US$599.00
+•	Application Processing Fee: US$50.00
+
+Registration
+Candidates receive a six-month eligibility window from registration to complete the exam. Scheduling available as early as 48 hours after payment. Candidates have five years from passing to apply for certification.
+
+Why Pursue AAIR?
+•	Specifically designed for risk professionals navigating AI adoption
+•	Validates ability to assess and manage risks across the full AI lifecycle
+•	Addresses one of the most in-demand skill sets as organizations deploy AI
+•	Complements CRISC by adding specialized AI risk expertise
+•	Demonstrates ability to advise leadership on AI governance and risk frameworks
+•	Recognized globally by organizations managing AI-related regulatory requirements
+
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA  |  +1-847-660-5505  |  www.isaca.org

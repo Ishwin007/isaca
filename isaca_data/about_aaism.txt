@@ -1,0 +1,34 @@
+AAISM — Advanced in AI Security Management
+Source: https://www.isaca.org/credentialing/aaism
+
+The first and only AI-centric security management certification. AAISM is designed for experienced security professionals to manage evolving security risks related to AI, implement policy, and ensure responsible organizational use of AI technologies.
+
+Exam Domains
+•	AI Governance and Program Management — managing AI initiatives across the enterprise
+•	AI Risk Management — identifying, assessing, monitoring, and mitigating AI-related threats
+•	AI Technologies and Controls — understanding AI systems and their security controls
+
+Prerequisites — Who Can Apply?
+Candidates must hold one of the following active certifications:
+•	CISM (Certified Information Security Manager)
+•	CISSP (Certified Information Systems Security Professional)
+
+Note: Candidates should also have proven experience in security or advisory roles with some expertise in assessing, implementing, and maintaining AI systems.
+
+Exam Cost
+•	Member: US$459.00
+•	Non-Member: US$599.00
+•	Application Processing Fee: US$50.00
+
+Registration
+Computer-based exams administered at authorized PSI testing centers globally or via remote proctoring. Six-month eligibility period from registration to exam completion. Candidates have five years from passing to apply for certification.
+
+Why Pursue AAISM?
+•	Only certification specifically focused on AI security management
+•	Validates ability to protect organizations against AI-specific threats
+•	Addresses growing demand for security leaders who understand AI risks
+•	Complements CISM by adding specialized AI security expertise
+•	Demonstrates readiness to advise boards and executives on AI security posture
+•	Builds career value as organizations accelerate AI adoption
+
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA  |  +1-847-660-5505  |  www.isaca.org

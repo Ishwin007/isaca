@@ -97,6 +97,51 @@ TOOLS = [
         "description": "Returns ISACA-aligned audit checklists for cloud security, access management, data privacy, network security, and general IT audits.",
         "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
+    {
+        "name": "about_cdpse",
+        "description": "Returns detailed information about the CDPSE (Certified Data Privacy Solutions Engineer) certification — exam details, domains, eligibility, and benefits.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "about_ccoa",
+        "description": "Returns detailed information about the CCOA (Certified Cybersecurity Operations Analyst) certification — exam details, domains, hands-on tools, eligibility, and benefits.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "about_aaia",
+        "description": "Returns detailed information about the AAIA (Advanced in AI Audit) certification — the world's first advanced AI audit credential, domains, prerequisites, and benefits.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "about_aaism",
+        "description": "Returns detailed information about the AAISM (Advanced in AI Security Management) certification — domains, prerequisites, exam cost, and benefits.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "about_aair",
+        "description": "Returns detailed information about the AAIR (Advanced in AI Risk) certification — domains, prerequisites, exam cost, and benefits.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "isaca_chapters",
+        "description": "Returns information about ISACA local chapters worldwide — how to find your chapter, benefits of joining, events, volunteering, and CPE opportunities.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "certification_salaries",
+        "description": "Returns job market and salary data for all ISACA certifications including average salaries, job titles, and market demand.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "certification_comparison",
+        "description": "Returns a detailed comparison of all ISACA certifications — focus areas, career levels, industries, exam costs, and recommended pathways.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "which_certification",
+        "description": "Helps users decide which ISACA certification is right for them based on their role, experience level, and career goals.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
 ]
 
 
@@ -133,6 +178,24 @@ def run_tool(name: str, arguments: dict = None) -> dict:
         text = read_data_file("cpe_policy.txt")
     elif name == "generate_audit_checklist":
         text = read_data_file("audit_checklists.txt")
+    elif name == "about_cdpse":
+        text = read_data_file("about_cdpse.txt")
+    elif name == "about_ccoa":
+        text = read_data_file("about_ccoa.txt")
+    elif name == "about_aaia":
+        text = read_data_file("about_aaia.txt")
+    elif name == "about_aaism":
+        text = read_data_file("about_aaism.txt")
+    elif name == "about_aair":
+        text = read_data_file("about_aair.txt")
+    elif name == "isaca_chapters":
+        text = read_data_file("isaca_chapters.txt")
+    elif name == "certification_salaries":
+        text = read_data_file("certification_salaries.txt")
+    elif name == "certification_comparison":
+        text = read_data_file("certification_comparison.txt")
+    elif name == "which_certification":
+        text = read_data_file("which_certification.txt")
     else:
         return None
     return {"type": "text", "text": text}

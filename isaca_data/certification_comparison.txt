@@ -1,0 +1,105 @@
+ISACA Certifications — Comparison Guide
+Source: https://www.isaca.org/credentialing
+
+This guide compares all major ISACA certifications to help you understand how they differ, who they are for, and how they relate to each other.
+
+Quick Comparison Table
+
+Certification	Focus Area	Level	Best For	Prerequisite
+CISA	IT Audit & Assurance	Professional	Auditors, compliance teams	None (5 yrs work exp)
+CISM	Security Management	Professional	Security managers, CISOs	None (5 yrs work exp)
+CRISC	IT Risk Management	Professional	Risk managers, GRC analysts	None (3 yrs work exp)
+CGEIT	IT Governance	Professional	CIOs, IT directors, senior leaders	None (5 yrs work exp)
+CDPSE	Privacy Engineering	Professional	Privacy engineers, DPOs	None (3 yrs work exp)
+CCOA	Cybersecurity Operations	Professional	SOC analysts, cyber analysts	None
+AAIA	AI Audit	Advanced	Senior auditors	CISA or equivalent
+AAIR	AI Risk	Advanced	Senior risk professionals	CRISC, CISM, or equivalent
+AAISM	AI Security Management	Advanced	Senior security managers	CISM or CISSP
+
+Detailed Comparison by Category
+
+BY FOCUS AREA
+
+Audit & Assurance
+•	CISA — the gold standard for IT auditors. Covers audit process, governance, operations, and asset protection.
+
+Security
+•	CISM — management-level. Focuses on building and governing security programs.
+•	CCOA — technical, hands-on. Focuses on SOC work, threat detection, and incident response.
+•	AAISM — advanced AI security. Builds on CISM with AI-specific security management.
+
+Risk Management
+•	CRISC — the leading IT risk certification. Bridges IT and business risk.
+•	AAIR — advanced AI risk. Builds on CRISC with AI lifecycle risk management.
+
+Governance
+•	CGEIT — enterprise IT governance at the senior/board level.
+
+Privacy
+•	CDPSE — technical implementation of privacy into systems.
+
+AI (Advanced)
+•	AAIA — auditing AI systems (requires CISA)
+•	AAIR — managing AI risk (requires CRISC or equivalent)
+•	AAISM — securing AI (requires CISM or CISSP)
+
+BY CAREER LEVEL
+
+Early Career (0-3 years experience)
+•	CCOA — no experience requirement, hands-on cyber focus, lower exam cost
+•	Start studying for CISA, CISM, or CRISC while building work experience
+
+Mid Career (3-7 years experience)
+•	CISA — if you work in audit, compliance, or assurance
+•	CISM — if you work in security management or want to move into it
+•	CRISC — if you work in IT risk, GRC, or compliance
+•	CDPSE — if you work in privacy, data protection, or engineering
+
+Senior Career (7+ years experience)
+•	CGEIT — if you are in or moving toward IT leadership or board advisory
+•	AAIA — if you are a senior auditor wanting AI specialization
+•	AAIR — if you are a senior risk professional wanting AI specialization
+•	AAISM — if you are a security leader wanting AI security expertise
+
+BY INDUSTRY
+
+Banking & Finance: CRISC, CISA, CISM
+Healthcare: CISA, CDPSE, CRISC
+Technology Companies: CISM, CDPSE, CCOA, AAISM
+Government & Public Sector: CISA, CRISC, CGEIT
+Consulting & Advisory: CISA, CISM, CRISC, CGEIT
+Startups & AI Companies: CCOA, AAIA, AAIR, AAISM
+
+Exam Cost Comparison
+
+Certification	Member Price	Non-Member Price
+CISA	US$575	US$760
+CISM	US$575	US$760
+CRISC	US$575	US$760
+CGEIT	US$575	US$760
+CDPSE	US$575	US$760
+CCOA	US$399	US$499
+AAIA	US$459	US$599
+AAIR	US$459	US$599
+AAISM	US$459	US$599
+
+Tip: ISACA membership (US$135/year) saves you US$185 per CISA/CISM/CRISC/CGEIT/CDPSE exam — paying for itself after one exam.
+
+Certification Pathways
+
+Pathway 1 — The Auditor Track
+CISA → AAIA (AI Audit)
+
+Pathway 2 — The Security Track
+CCOA → CISM → AAISM (AI Security)
+
+Pathway 3 — The Risk Track
+CRISC → AAIR (AI Risk)
+
+Pathway 4 — The Governance Track
+CISA or CISM → CGEIT
+
+Pathway 5 — The Privacy Track
+CDPSE (can be earned alongside any other certification)
+
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA  |  +1-847-660-5505  |  www.isaca.org

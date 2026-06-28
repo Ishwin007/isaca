@@ -1,0 +1,74 @@
+ISACA Certifications — Job Market and Salary Data
+Source: https://www.isaca.org/credentialing
+
+ISACA certifications are consistently ranked among the highest-paying IT credentials in the world. Below is a summary of salary data and job market demand for each certification.
+
+Salary Overview by Certification
+
+CISA — Certified Information Systems Auditor
+•	Average Annual Salary: US$149,000+
+•	Job Titles: IT Auditor, IS Auditor, Audit Manager, Compliance Analyst, Risk Analyst
+•	On-the-Job Improvement Reported: 70% of holders
+•	Pay Boost After Certification: 22% of holders received a raise
+•	Demand: High — required by many government agencies, banks, and enterprises globally
+
+CISM — Certified Information Security Manager
+•	Average Annual Salary: US$149,000+
+•	Job Titles: Information Security Manager, CISO, Security Director, IT Security Consultant
+•	On-the-Job Improvement Reported: 73% of holders
+•	Pay Boost After Certification: 26% of holders received a raise
+•	Demand: Very High — one of the most sought-after management-level security credentials
+
+CRISC — Certified in Risk and Information Systems Control
+•	Average Annual Salary: US$151,000+
+•	Job Titles: IT Risk Manager, Risk Analyst, GRC Analyst, Compliance Officer, Risk Consultant
+•	On-the-Job Improvement Reported: 71% of holders
+•	Pay Boost After Certification: 25% of holders received a raise
+•	Demand: Very High — especially in banking, finance, insurance, and regulated industries
+
+CDPSE — Certified Data Privacy Solutions Engineer
+•	Average Annual Salary: US$150,000+
+•	Job Titles: Privacy Engineer, Data Protection Officer, Privacy Architect, Privacy Analyst
+•	Demand: Rapidly growing — driven by GDPR, CCPA, and expanding global privacy regulations
+•	Best For: Technical professionals implementing privacy in systems
+
+CGEIT — Certified in the Governance of Enterprise IT
+•	Average Annual Salary: US$130,000+
+•	Job Titles: IT Director, CIO, Enterprise Architect, IT Governance Manager, Senior IT Consultant
+•	Demand: Moderate-High — valued by senior leadership and board-level advisory roles
+•	Best For: Senior professionals managing IT strategy and governance
+
+CCOA — Certified Cybersecurity Operations Analyst
+•	Average Annual Salary: Emerging — certification launched in 2025
+•	Job Titles: SOC Analyst, Cybersecurity Analyst, Incident Response Analyst, Threat Analyst
+•	Demand: Very High — cybersecurity operations roles are among the fastest growing in tech
+•	Exam Cost: Lower than other ISACA certs (US$399 member) — great entry point
+
+AAIA — Advanced in AI Audit
+•	Average Annual Salary: Premium over base CISA/CIA salary expected
+•	Job Titles: AI Auditor, AI Governance Specialist, Technology Risk Advisor
+•	Demand: Rapidly emerging — organizations are scrambling to audit AI systems
+•	Requires: Active CISA or equivalent audit qualification
+
+AAIR — Advanced in AI Risk
+•	Average Annual Salary: Premium over base CRISC/risk salary expected
+•	Job Titles: AI Risk Manager, AI Governance Analyst, Technology Risk Director
+•	Demand: Rapidly emerging — AI risk is one of the top concerns for boards globally
+•	Requires: Active CRISC, CISM, CISA, or equivalent
+
+AAISM — Advanced in AI Security Management
+•	Average Annual Salary: Premium over base CISM salary expected
+•	Job Titles: AI Security Manager, AI Security Director, CISO (AI focus)
+•	Demand: Rapidly emerging — protecting AI systems is a new frontier in security
+•	Requires: Active CISM or CISSP
+
+General Market Trends
+•	ISACA reports a 90%+ renewal rate across all certifications — indicating strong career value
+•	Members save 25% on exam fees — making membership worthwhile if pursuing any certification
+•	300,000+ ISACA certifications awarded across 186 countries
+•	AI-related certifications (AAIA, AAIR, AAISM) are expected to see significant salary premiums as AI governance becomes a regulatory requirement globally
+•	The cybersecurity talent gap continues to grow — ISACA's State of Cybersecurity report consistently shows demand outpacing supply
+
+Note: Salary figures are approximate averages based on ISACA's published data. Actual salaries vary by country, industry, experience level, and organization size. Always cross-check with current job market data on platforms like LinkedIn, Glassdoor, or local recruitment agencies.
+
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA  |  +1-847-660-5505  |  www.isaca.org
