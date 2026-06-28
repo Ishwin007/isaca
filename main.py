@@ -33,6 +33,7 @@ DATA_DIR = Path(__file__).parent / "isaca_data"
 MCP_SERVER_INFO = {
     "name": "isaca-info",
     "version": "1.0.0",
+    "description": "This server is under development. Information is based on our knowledge base — users should cross-check with isaca.org when in doubt.",
 }
 
 TOOLS = [
