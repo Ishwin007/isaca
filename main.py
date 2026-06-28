@@ -26,47 +26,57 @@ TOOLS = [
     {
         "name": "about_isaca",
         "description": "Returns detailed information about ISACA — who they are, what they do, their certifications, membership, and mission.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
     {
         "name": "about_cisa",
         "description": "Returns detailed information about the CISA (Certified Information Systems Auditor) certification — exam details, eligibility, syllabus, and benefits.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "about_cism",
+        "description": "Returns detailed information about the CISM (Certified Information Security Manager) certification — exam details, domains, eligibility, and benefits.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "about_crisc",
+        "description": "Returns detailed information about the CRISC (Certified in Risk and Information Systems Control) certification — exam details, domains, eligibility, and benefits.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "about_cgeit",
+        "description": "Returns detailed information about the CGEIT (Certified in the Governance of Enterprise IT) certification — exam details, domains, eligibility, and benefits.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
     {
         "name": "get_cobit_data",
-        "description": "Returns detailed information about COBIT (Control Objectives for Information and Related Technologies) — the ISACA framework for governance and management of enterprise IT, including COBIT 2019, core components, governance vs. management, and key objectives.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
+        "description": "Returns detailed information about COBIT (Control Objectives for Information and Related Technologies) — the ISACA framework for governance and management of enterprise IT.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
     {
         "name": "get_data_certification_exam_prep",
         "description": "Returns CISA exam preparation resources including official study materials, exam domain breakdowns, study tips, exam format, and CPE requirements.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
     {
         "name": "get_certification",
-        "description": "Returns information about how to get an ISACA certification — steps, requirements, application process, and tips for obtaining ISACA certifications.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
+        "description": "Returns information about how to get an ISACA certification — steps, requirements, application process, and tips.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "membership_benefits",
+        "description": "Returns information about ISACA membership benefits, fees, and how to join.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "training_resources",
+        "description": "Returns information about ISACA training options including online courses, instructor-led training, exam prep materials, webinars, and conferences.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
+        "name": "cpe_policy",
+        "description": "Returns ISACA's Continuing Professional Education (CPE) policy — annual requirements, eligible activities, reporting process, and consequences of non-compliance.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
     {
         "name": "generate_audit_checklist",
@@ -76,64 +86,10 @@ TOOLS = [
             "properties": {
                 "domain": {
                     "type": "string",
-                    "description": "The IT control domain to generate a checklist for, e.g. 'cloud security', 'access management', 'data privacy', 'network security'.",
+                    "description": "The IT control domain, e.g. 'cloud security', 'access management', 'data privacy', 'network security'.",
                 }
             },
             "required": ["domain"],
-        },
-    },
-    {
-        "name": "about_cism",
-        "description": "Returns detailed information about the CISM (Certified Information Security Manager) certification — exam details, domains, eligibility, and benefits.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
-    },
-    {
-        "name": "about_crisc",
-        "description": "Returns detailed information about the CRISC (Certified in Risk and Information Systems Control) certification — exam details, domains, eligibility, and benefits.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
-    },
-    {
-        "name": "about_cgeit",
-        "description": "Returns detailed information about the CGEIT (Certified in the Governance of Enterprise IT) certification — exam details, domains, eligibility, and benefits.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
-    },
-    {
-        "name": "membership_benefits",
-        "description": "Returns information about ISACA membership benefits, fees, and how to join.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
-    },
-    {
-        "name": "training_resources",
-        "description": "Returns information about ISACA training options including online courses, instructor-led training, exam prep materials, webinars, and conferences.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
-        },
-    },
-    {
-        "name": "cpe_policy",
-        "description": "Returns ISACA's Continuing Professional Education (CPE) policy — annual requirements, eligible activities, reporting process, and consequences of non-compliance.",
-        "inputSchema": {
-            "type": "object",
-            "properties": {},
-            "required": [],
         },
     },
 ]
@@ -168,11 +124,9 @@ def generate_audit_checklist(arguments: dict) -> dict:
                 "error": "Invalid input: 'domain' must be a non-empty string, e.g. 'cloud security' or 'access management'.",
             }, indent=2),
         }
-
     checklist_path = DATA_DIR / "audit_checklists.json"
     if not checklist_path.exists():
         return {"type": "text", "text": "Error: audit_checklists.json not found."}
-
     data = json.loads(checklist_path.read_text(encoding="utf-8"))
     canonical, matched = match_domain(domain)
     payload = {
@@ -191,26 +145,26 @@ def run_tool(name: str, arguments: dict = None) -> dict:
         text = read_data_file("about_isaca.txt")
     elif name == "about_cisa":
         text = read_data_file("about_cisa.txt")
-    elif name == "get_cobit_data":
-        text = read_data_file("Cobit.txt")
-    elif name == "get_data_certification_exam_prep":
-        text = read_data_file("exam_prep.txt")
-    elif name == "get_certification":
-        text = read_data_file("ISACA Get certification.txt")
-    elif name == "generate_audit_checklist":
-        return generate_audit_checklist(arguments)
     elif name == "about_cism":
         text = read_data_file("about_cism.txt")
     elif name == "about_crisc":
         text = read_data_file("about_crisc.txt")
     elif name == "about_cgeit":
         text = read_data_file("about_cgeit.txt")
+    elif name == "get_cobit_data":
+        text = read_data_file("Cobit.txt")
+    elif name == "get_data_certification_exam_prep":
+        text = read_data_file("exam_prep.txt")
+    elif name == "get_certification":
+        text = read_data_file("ISACA Get certification.txt")
     elif name == "membership_benefits":
         text = read_data_file("membership_benefits.txt")
     elif name == "training_resources":
         text = read_data_file("training_resources.txt")
     elif name == "cpe_policy":
         text = read_data_file("cpe_policy.txt")
+    elif name == "generate_audit_checklist":
+        return generate_audit_checklist(arguments)
     else:
         return None
     return {"type": "text", "text": text}
@@ -239,7 +193,6 @@ async def mcp_sse_handler(request: Request):
             "result": {"tools": TOOLS},
         })
 
-        # Keep connection alive until client disconnects
         while not await request.is_disconnected():
             await asyncio.sleep(15)
             yield ": ping\n\n"
