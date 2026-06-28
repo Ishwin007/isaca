@@ -1,9 +1,23 @@
 import json
+import threading
+import urllib.request
+import urllib.parse
 from pathlib import Path
 from fastapi import FastAPI, Request
 from fastapi.responses import JSONResponse, StreamingResponse
 from fastapi.middleware.cors import CORSMiddleware
 import asyncio
+
+GOATCOUNTER_URL = "https://isaca-mcp.goatcounter.com/count"
+
+def track(path: str):
+    def _send():
+        try:
+            url = f"{GOATCOUNTER_URL}?p={urllib.parse.quote(path)}"
+            urllib.request.urlopen(url, timeout=3)
+        except Exception:
+            pass
+    threading.Thread(target=_send, daemon=True).start()
 
 app = FastAPI()
 
@@ -150,6 +164,7 @@ async def mcp_sse_handler(request: Request):
             await asyncio.sleep(15)
             yield ": ping\n\n"
 
+    track("/sse/connect")
     return StreamingResponse(
         event_stream(),
         media_type="text/event-stream",
@@ -190,6 +205,7 @@ async def mcp_tool_call_handler(request: Request):
     if method == "tools/call":
         name = params.get("name")
         arguments = params.get("arguments", {})
+        track(f"/tools/{name}")
         result = run_tool(name, arguments)
 
         if result is None:
