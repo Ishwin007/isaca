@@ -1,32 +1,78 @@
-import requests
-from bs4 import BeautifulSoup
+ISACA Certifications — Complete Guide
+Source: https://www.isaca.org/credentialing
 
+ISACA has awarded 300,000+ certifications across 186 countries. Credentialing isn't a professional luxury — it's a career necessity. ISACA certifications validate your expertise, boost your earning potential, and are recognized by employers worldwide.
 
-def get_certifications():
-    """Retrieve ISACA certification names from the ISACA credentialing website.
+Active Professional Certifications
 
-    There is no public ISACA API that provides a get_certifications endpoint,
-    so this function scrapes the certification listing page.
-    """
-    url = "https://www.isaca.org/credentialing"
-    response = requests.get(url, timeout=10)
-    response.raise_for_status()
+1. CISA — Certified Information Systems Auditor
+   The global standard for IT audit, assurance, and control professionals.
 
-    soup = BeautifulSoup(response.text, "html.parser")
+2. CISM — Certified Information Security Manager
+   For professionals who manage, design, and oversee enterprise information security programs.
 
-    # Find likely certification headings on the credentialing page.
-    certifications = []
-    for heading in soup.select("h2, h3, h4, .credential-name, .card-title"):  # include common heading selectors
-        text = heading.get_text(strip=True)
-        if not text:
-            continue
-        normalized = text.replace("\n", " ").strip()
-        if normalized and normalized not in certifications:
-            certifications.append(normalized)
+3. CRISC — Certified in Risk and Information Systems Control
+   For IT risk management professionals who bridge IT and business risk.
 
-    # Fallback: look for known ISACA certifications if page structure is different.
-    fallback = ["CISA", "CISM", "CRISC", "CGEIT", "CDPSE"]
-    if not certifications:
-        certifications = fallback
+4. CGEIT — Certified in the Governance of Enterprise IT
+   For professionals who manage or advise on enterprise IT governance.
 
-    return certifications
+5. CDPSE — Certified Data Privacy Solutions Engineer
+   For technical professionals who implement privacy by design in systems and applications.
+
+6. CCOA — Certified Cybersecurity Operations Analyst
+   For cybersecurity analysts working in security operations centers (SOC).
+
+7. AAIA — Advanced in AI Audit
+   For auditors specializing in auditing artificial intelligence systems and processes.
+
+8. AAIR — Advanced in AI Risk
+   For risk professionals focused on managing risks associated with AI technologies.
+
+9. AAISM — Advanced in AI Security Management
+   For security managers overseeing AI security programs and frameworks.
+
+10. CCP — CMMC Certified Professional
+    For professionals supporting CMMC (Cybersecurity Maturity Model Certification) compliance.
+
+11. CCA — CMMC Certified Assessor
+    For individuals authorized to conduct CMMC assessments.
+
+12. LCCA — Lead CMMC Certified Assessor Designation
+    Advanced designation for experienced CMMC lead assessors.
+
+13. CCI — CMMC Credentialed Instructor
+    For instructors delivering authorized CMMC training.
+
+Certificate Programs (Foundational Level)
+ISACA also offers certificates for foundational knowledge in:
+•	AI Fundamentals
+•	Blockchain Fundamentals
+•	Cloud Fundamentals
+•	COBIT 2019 Foundation and Design & Implementation
+•	Cybersecurity Audit
+•	Cybersecurity Fundamentals
+•	Data Science Fundamentals
+•	Digital Trust Ecosystem Framework Foundation
+•	IoT Fundamentals
+•	IT Audit Fundamentals
+•	IT Risk Fundamentals
+
+How to Get Certified — General Steps
+1.	Choose the certification that aligns with your career goals
+2.	Create or log in to your ISACA account at www.isaca.org
+3.	Register and pay for the exam (members receive a 25% discount)
+4.	Study using ISACA's official review manuals and question banks
+5.	Schedule your exam through the PSI testing portal (available online or at test centers)
+6.	Pass the exam within your six-month eligibility window
+7.	Submit your work experience application and pay the US$50 processing fee
+8.	Maintain your certification by earning annual CPE hours
+
+Key Facts
+•	Members save 25% on all certification exams
+•	90%+ renewal rate among certification holders
+•	Digital badges available for all certifications
+•	Exams available at PSI test centers worldwide or via remote proctoring
+•	CPE hours required annually to maintain active certification status
+
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA  |  +1-847-660-5505  |  www.isaca.org
