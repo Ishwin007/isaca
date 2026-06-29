@@ -1,50 +1,39 @@
 About ISACA
 Source: https://www.isaca.org/about-us
 
-Fueling Careers. Strengthening Trust. Advancing Technology.
-The Principles Behind ISACA's Purpose
+What is ISACA?
+ISACA is a global professional membership organization that supports people who work in IT audit, cybersecurity, governance, risk management, compliance, and privacy. It has been operating for over 50 years and is recognized worldwide as a leading body in these fields.
 
-Our Mission
-Empower our members throughout their careers by providing comprehensive knowledge, skills, credentials and access to a global community—ensuring they are well-prepared to meet today's challenges and drive tomorrow's innovations.
+ISACA helps professionals grow their careers through certifications, training, research, frameworks, and a large global community. It also helps organizations build stronger, more trustworthy technology practices.
 
-Our Vision
-Champion a workforce committed to advancing trust in technology.
+Key Facts
+•	185,000+ members worldwide
+•	Presence in 188 countries
+•	231 local chapters across 6 global regions
+•	Offices in North America, Europe, and China
 
-Who We Serve
-Individuals and organizations worldwide who are prioritizing trust across IT audit and assurance, information and cyber security, governance, risk management, compliance, privacy and emerging technologies.
+What ISACA Offers
+•	Globally recognized certifications — CISA, CISM, CRISC, CGEIT, CDPSE, CCOA, and more
+•	Training courses, webinars, and conferences
+•	Research reports and whitepapers on cybersecurity, governance, and emerging technology
+•	Frameworks and standards including COBIT
+•	Local chapters for networking and professional development
+•	Mentoring programs and career resources
+•	Volunteer and leadership opportunities
 
-How We Serve Them
-By providing a world-class ecosystem of support through industry-leading certifications, continuous skills and performance-based education, research insights, frameworks, standards, tools, policies, local chapters and a global network.
+Who ISACA Serves
+ISACA serves individuals and organizations that work with technology and need to manage it securely, responsibly, and in line with regulations. This includes IT auditors, security professionals, risk managers, compliance officers, privacy engineers, and IT governance leaders.
 
-ISACA's Values
-•	Start with People: We make decisions that best serve our members, volunteers, customers and employees.
-•	Be Inclusive: We welcome global perspectives, listen carefully and remove barriers to growth.
-•	Respect Always: We treat everyone with respect and reject behavior that erodes ISACA's culture.
-•	Embrace Change: We are open to new ideas, learn together, and let outcomes guide us.
-•	Win as One: We operate as one team, knowing our collective strength will advance our mission.
-•	Own It: We honor our commitments and act with transparency, taking responsibility for our words, actions and results.
+ISACA's Core Values
+•	People First — decisions are made in the best interest of members and the community
+•	Inclusivity — diverse perspectives are welcomed and barriers to participation are removed
+•	Respect — all members and stakeholders are treated with dignity
+•	Openness to Change — new ideas are embraced and learning is ongoing
+•	Teamwork — the organization works as one unified body
+•	Accountability — commitments are honored and actions are transparent
 
-Global Reach and Impact
-For more than 50 years, ISACA has helped individuals and enterprises worldwide advance their careers, transform their organizations, and build a more trusted and ethical digital world.
+Why ISACA Matters
+As technology becomes more central to business and society, the need for professionals who can audit, secure, govern, and manage it responsibly has grown significantly. ISACA provides the credentials and knowledge that help professionals meet this demand and help organizations build trust in their technology.
 
-ISACA is a global professional association and learning organization with 185,000 members who work in digital trust fields such as information security, governance, assurance, risk, privacy and quality. With a presence in 188 countries and with 225 chapters worldwide, ISACA is recognized around the world for its guidance, credentials, education, training and community. To serve its professional community across the globe, ISACA has established offices in North America, Europe and China.
-
-A Global Community — 185,000 Strong
-Today, IS/IT professionals are helping to drive strategy and create transformative change in their organizations. With 185,000 members across the world, ISACA is a home base for professionals wanting to leverage the positive impact of technology in order to advance digital trust.
-
-Join Industry Leaders
-Become a member of one of the world's largest global organizations empowering IS/IT audit, control, security, cybersecurity and governance professionals and gain access to our robust professional network, benefits, education and programs.
-
-Get Involved
-ISACA provides community events, volunteer opportunities, advocacy, and career advancement within more than 225 local chapters around the world. Discover job opportunities, find or become a mentor, share professional insight and more.
-
-Partner with Us
-From Accredited Training Partnerships to Academic Partnerships, ISACA's partners are a large part of our community. Add the power of a global learning organization to your business or institution today.
-
-Advocacy and Government Relations
-Help us guide and educate the global community, its leaders and governments to leverage technology to make a positive impact and advance digital trust for all.
-
-Leadership & Governance
-ISACA serves a diverse constituency around the world in the ever-evolving information and technology field. Discover how we navigate change and provide world-class information, learning and experiences in this landscape.
-
-1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA  |  +1-847-660-5505  |  www.isaca.org
+For more information, visit www.isaca.org
+Contact: +1-847-660-5505 | 1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA

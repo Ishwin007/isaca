@@ -1,48 +1,62 @@
 CISA — Certified Information Systems Auditor
 Source: https://www.isaca.org/credentialing/cisa
 
-World-renowned as the standard of achievement for auditing, monitoring, and assessing IT and business systems, CISA also acknowledges the importance of emerging technologies. Achieving a CISA certification showcases expertise and the ability to apply a risk-based approach to audit engagements. Addressing innovations like AI and blockchain, CISA ensures IT audit professionals stay current on the latest technology trends.
+What is CISA?
+CISA is one of the most widely recognized certifications for professionals who audit, monitor, and assess IT systems and business processes. It is designed for individuals who want to demonstrate their ability to evaluate an organization's IT controls, identify risks, and ensure systems are managed securely and effectively.
+
+The certification covers both traditional IT audit practices and emerging technologies such as AI and blockchain, making it relevant for modern audit professionals.
+
+Key Statistics
+•	151,000+ professionals hold the CISA certification
+•	Average annual salary: US$149,000+
+•	70% of holders reported improvement in their work after certification
+•	22% received a pay increase after earning CISA
+•	90%+ renewal rate among active CISA holders
 
 Exam Domains
+The CISA exam covers five areas:
 •	Information Systems Auditing Process
 •	Governance and Management of Information Technology
-•	Information Systems Acquisition, Development & Implementation
+•	Information Systems Acquisition, Development and Implementation
 •	Information Systems Operations and Business Resilience
 •	Protection of Information Assets
 
 Certification Requirements
-•	Pass the CISA certification exam
-•	Pay the US$50 application processing fee
-•	Submit application demonstrating required work experience
-•	Adhere to the Code of Professional Ethics
-•	Adhere to the Continuing Professional Education (CPE) Policy
-•	Compliance with Information Systems Auditing Standards
-Candidates have five years from passing the exam to apply for certification.
+To become CISA certified, candidates must:
+•	Pass the CISA exam
+•	Pay a US$50 application processing fee
+•	Submit proof of at least 5 years of relevant work experience
+•	Agree to ISACA's Code of Professional Ethics
+•	Follow ISACA's Continuing Professional Education (CPE) Policy
+•	Comply with Information Systems Auditing Standards
 
-Exam Registration
-Exam Cost
-•	Member: US$575.00
-•	Non-Member: US$760.00
+Candidates have up to five years from the date they pass the exam to submit their certification application.
 
-Registration Process
-CISA exams are computer-based and administered at authorized PSI testing centers globally or as remotely proctored exams. Registration is continuous — candidates can register any time with no restrictions. Candidates can schedule a testing appointment as early as 48 hours after payment.
-1.	Log in to your ISACA Account
-2.	Click Certification & CPE Management
-3.	Click Schedule Your Exam or Visit Exam Website (PSI dashboard)
-4.	On the PSI dashboard, click Schedule Exam
+Exam Fees
+•	ISACA Member: US$575
+•	Non-Member: US$760
 
-Eligibility
-Upon registration, candidates have a six-month eligibility period to take the exam. Exam appointments are available up to 90 days in advance. Rescheduling is permitted without penalty if done at least 48 hours prior to the scheduled appointment.
+How to Register
+The CISA exam is computer-based and can be taken at PSI testing centers around the world or online via remote proctoring. There are no application deadlines — registration is open year-round.
 
-Why Certify with CISA?
-•	Globally accepted and recognized certification
-•	Provides credibility to advance your career
-•	Proves to employers that you are ready to add value to their enterprise
-•	Required by many organizations and government agencies
-•	Recognized as a finalist for the SC Awards Best Professional Certification Program 2025
-•	90%+ renewal rate among CISA holders worldwide
+Steps to register:
+1.	Log in to your ISACA account at www.isaca.org
+2.	Go to Certification and CPE Management
+3.	Select Schedule Your Exam
+4.	Complete scheduling through the PSI portal
 
-ANAB Accreditation
-CISA is ANAB (ANSI National Accreditation Board) accredited, providing an internationally recognized mark of credibility and quality.
+Eligibility Window
+After registering and paying, candidates have 6 months to sit the exam. Exam slots can be booked up to 90 days in advance. If you need to reschedule, you can do so without a penalty as long as you give at least 48 hours notice.
 
-1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA  |  +1-847-660-5505  |  www.isaca.org
+Why Pursue CISA?
+•	Recognized by employers in over 186 countries
+•	Frequently required for senior audit and compliance roles
+•	Demonstrates ability to assess and improve IT controls
+•	Valuable across industries including banking, healthcare, government, and consulting
+•	ANAB accredited — meets international quality and credibility standards
+
+Accreditation
+CISA holds ANAB (ANSI National Accreditation Board) accreditation, which means it meets internationally recognized standards for professional certifications.
+
+For more information, visit www.isaca.org/credentialing/cisa
+Contact: +1-847-660-5505 | 1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA

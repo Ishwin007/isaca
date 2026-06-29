@@ -1,79 +1,76 @@
-CISA Exam Preparation Resources
-Source: https://www.isaca.org/credentialing/cisa/prepare-for-the-cisa-exam
+CISA Exam Preparation Guide
+Source: https://www.isaca.org/credentialing/cisa
 
-Official ISACA Study Materials
+This guide summarizes the key resources, study tips, and exam details to help you prepare for the CISA exam.
+
+Official Study Materials from ISACA
 
 1. CISA Review Manual
-   The definitive study guide covering all five exam domains in depth. Updated annually to align with the current Exam Content Outline. Available in print and digital formats.
-   Price: Member US$119 / Non-Member US$179
+A comprehensive study guide covering all five exam domains in detail. Updated regularly to stay aligned with the current exam syllabus. Available in print and digital formats.
+Price: Member US$119 / Non-Member US$179
 
-2. CISA Questions, Answers & Explanations (QAE) Database
-   Over 1,000 practice questions with detailed rationales. Organized by domain so candidates can target weak areas. Accessible online through ISACA's learning platform.
-   Price: Member US$149 / Non-Member US$199
+2. Questions, Answers and Explanations (QAE) Database
+A bank of over 1,000 practice questions with detailed explanations for each answer. Organized by domain so you can focus on areas where you need more practice. Available through ISACA's online learning platform.
+Price: Member US$149 / Non-Member US$199
 
-3. CISA Online Review Course
-   Self-paced eLearning covering all five domains with video lectures, exercises, and quizzes. Earns CPE credits upon completion.
-   Price: Member US$499 / Non-Member US$649
+3. Online Review Course
+A self-paced online course covering all five domains through video lessons, exercises, and quizzes. Earns CPE credits on completion.
+Price: Member US$499 / Non-Member US$649
 
-4. CISA Practice Exam
-   A 150-question, timed simulation of the real exam. Provides domain-level performance reports to guide further study.
-   Price: Member US$99 / Non-Member US$139
+4. Practice Exam
+A full 150-question timed mock exam that simulates the real test experience. Includes a domain-level performance report to identify weak areas.
+Price: Member US$99 / Non-Member US$139
 
-Exam Domains and Study Focus
+Exam Domain Breakdown
 
 Domain 1 — Information Systems Auditing Process (18%)
-Planning, executing, and reporting IS audits using risk-based methodologies. Covers audit standards, evidence collection, and follow-up procedures.
+Covers how to plan, conduct, and report IT audits using risk-based approaches. Includes audit standards, gathering evidence, and following up on findings.
 
 Domain 2 — Governance and Management of IT (18%)
-IT governance frameworks, strategy alignment, policy development, risk management practices, and IT performance monitoring.
+Covers IT governance frameworks, how IT strategy aligns with business goals, policy development, risk management, and performance monitoring.
 
 Domain 3 — Information Systems Acquisition, Development and Implementation (12%)
-Project management, SDLC methodologies, testing practices, change management, and release management controls.
+Covers project management, software development lifecycles, testing practices, change management, and release controls.
 
 Domain 4 — Information Systems Operations and Business Resilience (26%)
-IT operations management, capacity planning, incident and problem management, business continuity planning, disaster recovery, and data backup strategies.
+Covers IT operations, capacity planning, incident management, business continuity, disaster recovery, and data backup strategies.
 
 Domain 5 — Protection of Information Assets (26%)
-Access control frameworks, network and endpoint security, cryptography, physical security, cloud security controls, and data privacy regulations.
+Covers access control, network and endpoint security, cryptography, physical security, cloud security, and data privacy requirements.
 
-Note: Domains 4 and 5 together account for 52% of the exam — prioritize these areas in your study plan.
+Study Tip: Domains 4 and 5 together make up 52% of the exam. Spend more time on these two areas.
 
-Free Resources
+Free Resources Available
 
-• CISA Exam Content Outline (ECO) — Free download from isaca.org. Defines every topic and its weighting; use this as your study roadmap.
-• ISACA Knowledge Center — Curated articles, white papers, and research reports on audit and security topics.
-• ISACA Community — Peer forums and chapter-run study groups at community.isaca.org.
-• Free Webinars and Podcasts — ISACA regularly hosts no-cost sessions that also count toward CPE hours.
+•	CISA Exam Content Outline — A free document from isaca.org that lists every topic covered in the exam and how much weight each carries. Use this as your study roadmap.
+•	ISACA Knowledge Center — Free access to articles, research papers, and guidance documents on audit and security topics.
+•	ISACA Community — Online forums and peer discussion groups at community.isaca.org
+•	Free Webinars — ISACA regularly runs no-cost webinars that also count toward CPE hours.
 
 Study Tips
 
-1. Download the Exam Content Outline first and use it to build your study schedule.
-2. Allocate more time to Domains 4 and 5, which carry the most exam weight.
-3. Practice at least 50 QAE questions per session; focus on understanding the reasoning, not memorising answers — questions are scenario-based.
-4. Take a full timed 150-question practice exam at least two weeks before your test date.
-5. Join a local ISACA chapter or online study group for accountability and peer discussion.
-6. Plan for 3 to 6 months of preparation time depending on your existing experience.
+1. Start by downloading the Exam Content Outline from isaca.org and build your study schedule around it.
+2. Spend the most time on Domains 4 and 5 since they carry the most exam weight combined.
+3. Practice with QAE questions regularly — focus on understanding why an answer is correct, not just memorizing it. The exam uses scenario-based questions.
+4. Take a full timed practice exam at least two weeks before your exam date to identify gaps.
+5. Join a local ISACA chapter or online study group to stay motivated and learn from others.
+6. Allow 3 to 6 months for preparation depending on your current experience level.
 
 Exam Format
 
-• Format: Computer-based test (CBT) at PSI testing centres or via remote proctoring
-• Number of Questions: 150 multiple-choice
-• Time Allowed: 4 hours
-• Passing Score: 450 out of 800
-• Languages: English, Chinese (Simplified), Spanish, French, German, Hebrew, Italian, Japanese, Korean, and Turkish
+•	Format: Computer-based at PSI testing centers worldwide or via online remote proctoring
+•	Number of Questions: 150 multiple-choice questions
+•	Time Allowed: 4 hours
+•	Passing Score: 450 out of 800
+•	Available Languages: English, Chinese (Simplified), Spanish, French, German, Hebrew, Italian, Japanese, Korean, and Turkish
 
-Maintaining Your CISA Certification (CPE Requirements)
+Maintaining CISA After You Earn It
 
-After earning CISA, you must earn and report Continuing Professional Education hours to keep the credential active:
-• Minimum 20 CPE hours per calendar year
-• Minimum 120 CPE hours per 3-year certification period
-• Annual maintenance fee applies
-• Failure to meet CPE requirements results in certification revocation
+Once certified, you must keep your CISA active by earning Continuing Professional Education (CPE) hours:
+•	At least 20 CPE hours per calendar year
+•	At least 120 CPE hours over each 3-year certification period
+•	Annual maintenance fee applies
+•	Not meeting CPE requirements can result in certification suspension or revocation
 
-Contact and Support
-
-ISACA Global Headquarters
-1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA
-Phone: +1-847-660-5505
-Website: www.isaca.org
-Certification Support: certification@isaca.org
+For more information, visit www.isaca.org/credentialing/cisa
+Contact: certification@isaca.org | +1-847-660-5505
