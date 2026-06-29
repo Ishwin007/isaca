@@ -14,7 +14,10 @@ def track(path: str):
     def _send():
         try:
             url = f"{GOATCOUNTER_URL}?p={urllib.parse.quote(path)}"
-            urllib.request.urlopen(url, timeout=3)
+            req = urllib.request.Request(url, headers={
+                "User-Agent": "Mozilla/5.0 (compatible; ISACA-MCP/1.0)",
+            })
+            urllib.request.urlopen(req, timeout=3)
         except Exception:
             pass
     threading.Thread(target=_send, daemon=True).start()
