@@ -38,6 +38,11 @@ MCP_SERVER_INFO = {
 
 TOOLS = [
     {
+        "name": "read_me_first",
+        "description": "START HERE — Important disclaimer about this tool. This is an unofficial community tool, not affiliated with or endorsed by ISACA. Read this before using any other tool.",
+        "inputSchema": {"type": "object", "properties": {}, "required": []},
+    },
+    {
         "name": "about_isaca",
         "description": "Returns detailed information about ISACA — who they are, what they do, their certifications, membership, and mission.",
         "inputSchema": {"type": "object", "properties": {}, "required": []},
@@ -154,7 +159,9 @@ def read_data_file(filename: str) -> str:
 
 def run_tool(name: str, arguments: dict = None) -> dict:
     arguments = arguments or {}
-    if name == "about_isaca":
+    if name == "read_me_first":
+        text = read_data_file("read_me_first.txt")
+    elif name == "about_isaca":
         text = read_data_file("about_isaca.txt")
     elif name == "about_cisa":
         text = read_data_file("about_cisa.txt")
