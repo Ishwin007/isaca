@@ -31,9 +31,9 @@ app.add_middleware(
 DATA_DIR = Path(__file__).parent / "isaca_data"
 
 MCP_SERVER_INFO = {
-    "name": "isaca-info",
+    "name": "isaca-info (Unofficial Community Tool)",
     "version": "1.0.0",
-    "description": "This server is under development. Information is based on our knowledge base — users should cross-check with isaca.org when in doubt.",
+    "description": "This is an unofficial community tool, not affiliated with or endorsed by ISACA. Information is based on publicly available content from isaca.org and is under development — always cross-check with isaca.org for the latest and most accurate information.",
 }
 
 TOOLS = [
