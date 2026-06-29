@@ -1,0 +1,243 @@
+ISACA MEMBERSHIP, COMMUNITY AND PROFESSIONAL DEVELOPMENT
+================================================================================
+This file covers: Membership benefits, local chapters, training resources, and CPE policy.
+Source: https://www.isaca.org
+================================================================================
+
+
+ISACA MEMBERSHIP BENEFITS
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/membership
+
+Joining ISACA connects you to a global community of 185,000+ professionals and gives you access to world-class resources, tools, and opportunities to grow your career in IT audit, security, governance, risk, and privacy.
+
+Membership Fees
+• One-Year Membership: US$135
+• Two-Year Membership: US$255 (save US$15)
+• Student Membership: US$40 (must be enrolled full-time in an accredited institution)
+
+Key Benefits of ISACA Membership
+
+1. Exam Discounts
+Members receive significant discounts on all ISACA certification exams:
+• CISA, CISM, CRISC, CGEIT, CDPSE exams: US$575 (vs. US$760 for non-members) — a saving of US$185 per exam
+
+2. Access to Research and Publications
+• Free access to ISACA's Journal (published 6 times a year)
+• Access to frameworks, whitepapers, research reports, and guidelines
+• COBIT and other framework publications at member pricing
+
+3. Online Learning and CPE
+• Discounts on ISACA's online courses and virtual training
+• Access to free CPE-eligible webinars and on-demand content
+• Ability to earn CPE credits to maintain certifications
+
+4. Global Community and Networking
+• Access to ISACA's global network of 185,000+ professionals
+• Membership in one of 225+ local chapters worldwide
+• Opportunities to connect with peers, mentors, and industry leaders
+
+5. Career Resources
+• Access to ISACA's job board and career center
+• Mentoring programs connecting you with experienced professionals
+• Leadership and volunteer opportunities within chapters and committees
+
+6. Knowledge Center
+• Exclusive access to ISACA's online Knowledge Center
+• Templates, tools, and audit programs for practical use
+• Standards, guidelines, and best practice documents
+
+7. Advocacy and Community Involvement
+• Participate in shaping industry standards and policies
+• Contribute to ISACA research and publications
+• Vote in ISACA elections and influence the direction of the organization
+
+How to Join
+1. Visit www.isaca.org/membership
+2. Create or log in to your ISACA account
+3. Select your membership type and duration
+4. Complete payment
+5. Access your member benefits immediately upon joining
+
+
+================================================================================
+ISACA CHAPTERS AND LOCAL COMMUNITY
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/membership/local-chapters
+
+ISACA has 231 chapters across 6 global regions, giving members access to a professional community right in their own city or country. Chapters are the local heartbeat of ISACA — where networking, learning, and career growth happen face to face.
+
+Global Reach
+• 231 chapters worldwide
+• Regions covered: Africa, Asia, Europe, Latin America, North America, Oceania
+• Chapters exist in over 100 countries
+
+What Do Chapters Do?
+Local chapters organize regular activities including:
+• Monthly or quarterly chapter meetings with guest speakers
+• Local training sessions and workshops
+• Study groups for ISACA certification exams
+• Networking events connecting members with employers and peers
+• Annual chapter conferences
+• Volunteer and leadership opportunities
+• CPE-eligible events — attending chapter events earns CPE hours toward certification maintenance
+
+Benefits of Joining Your Local Chapter
+• Network with professionals in your city working in IT audit, security, risk, and governance
+• Find a mentor or become one through chapter mentoring programs
+• Earn CPE credits at local events (typically 1-3 CPE hours per event)
+• Access job leads and career opportunities shared within the chapter
+• Get involved in leadership roles — chapter president, secretary, education director, and more
+• Stay current with local regulatory and industry developments
+
+How to Find Your Local Chapter
+1. Visit www.isaca.org/membership/local-chapters
+2. Use the chapter directory to search by region, country, or city
+3. Each chapter listing includes contact details, territory coverage, and upcoming events
+4. Reach out to the chapter directly or register for an upcoming event
+
+Chapter Membership
+• ISACA members are required to join a local chapter if one exists in their area
+• Chapter membership is typically included in your ISACA membership fee
+• Some chapters charge a small additional local fee
+
+Volunteering with Your Chapter
+Chapters rely on volunteers to thrive. Opportunities include:
+• Serving on the chapter board (president, VP, treasurer, secretary)
+• Leading education and training initiatives
+• Organizing events and speaker programs
+• Mentoring newer members
+• Representing ISACA at local universities and industry events
+
+Starting a New Chapter
+If no chapter exists in your area, ISACA supports professionals in establishing new chapters. Contact ISACA directly at www.isaca.org for guidance on the chapter formation process.
+
+
+================================================================================
+ISACA TRAINING RESOURCES
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/training-and-events
+
+ISACA offers a wide range of training options to help professionals prepare for certifications, earn CPE credits, and stay current in fast-moving fields like cybersecurity, IT audit, governance, risk, and privacy.
+
+Types of Training Available
+
+1. Online Self-Paced Courses
+• Available 24/7 — learn at your own pace
+• Covers all major certification domains (CISA, CISM, CRISC, CGEIT, CDPSE)
+• Includes practice questions, videos, and study materials
+• Earns CPE credits upon completion
+• Member discounts available
+
+2. Virtual Instructor-Led Training (VILT)
+• Live online classes led by ISACA-certified instructors
+• Interactive sessions with Q&A and real-world examples
+• Scheduled cohorts throughout the year
+• Ideal for professionals who prefer structured learning with expert guidance
+
+3. In-Person Training
+• Classroom-based training at select locations globally
+• Delivered by authorized ISACA training partners
+• Intensive formats available (3-day, 5-day bootcamps)
+
+4. ISACA Certifications Exam Prep
+• Official exam preparation courses for CISA, CISM, CRISC, CGEIT, and CDPSE
+• Review Manuals and Question, Answer & Explanation (QAE) databases
+• Practice exams that mirror the format of the real exam
+• Available in print and digital formats
+
+5. On-Demand Webinars
+• Free and paid webinars on current topics in cybersecurity, audit, and governance
+• Earn CPE credits by attending live or watching recordings
+• Archived library available to members
+
+6. ISACA Conference and Events
+• Global conferences including GRC Conference, CSX Cybersecurity Conference
+• Chapter events, workshops, and seminars worldwide
+• Networking opportunities with industry peers and leaders
+
+7. Academic and University Programs
+• Partnerships with universities offering ISACA-aligned curricula
+• Student resources including textbooks, case studies, and academic pricing
+• ISACA academic membership for enrolled students
+
+Study Materials Available for Purchase
+• Official Review Manuals (print and digital)
+• Question, Answer & Explanation (QAE) Databases
+• Practice exam bundles
+• Flash cards and study guides
+
+Member Tip: ISACA members receive discounts of up to 20% on most training products and study materials.
+
+All training and study materials: www.isaca.org/training-and-events
+
+
+================================================================================
+ISACA CONTINUING PROFESSIONAL EDUCATION (CPE) POLICY
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/credentialing/how-to-earn-cpe
+
+All ISACA certification holders are required to maintain their certifications by earning and reporting Continuing Professional Education (CPE) hours annually. CPE ensures that certified professionals stay current with the latest developments in their field.
+
+CPE Requirements
+
+Annual Requirement
+• Minimum of 20 CPE hours must be earned and reported each calendar year (January 1 – December 31)
+
+Three-Year Requirement
+• A minimum of 120 CPE hours must be earned and reported over each three-year certification period
+
+Annual CPE Maintenance Fee
+• Member: US$45 per certification per year
+• Non-Member: US$85 per certification per year
+This fee must be paid annually to maintain active certification status.
+
+CPE Reporting Deadline
+• CPE hours must be reported by January 15 of the following year
+• Example: CPE hours earned in 2025 must be reported by January 15, 2026
+
+How to Report CPE Hours
+1. Log in to your ISACA account at www.isaca.org
+2. Go to Certification & CPE Management
+3. Select Report CPE Hours
+4. Enter the activity details and number of hours earned
+5. Submit — no documentation needs to be submitted unless audited
+
+CPE Audit
+ISACA randomly audits a percentage of certification holders each year. If selected, you will be required to provide documentation supporting your reported CPE activities. Always retain proof of participation for at least one year after the reporting period.
+
+Eligible CPE Activities
+
+Group A — Professional Development Activities (direct CPE credit)
+• ISACA online courses and webinars
+• Attending ISACA or industry conferences and seminars
+• College or university courses related to the certification domain
+• Vendor-sponsored training (related to the domain)
+• Teaching, lecturing, or instructing relevant courses
+• Writing articles, books, or research papers in the domain
+• Serving on ISACA boards or committees
+
+Group B — Self-Study Activities (maximum 20 hours per year)
+• Reading professional books, journals, and articles
+• Reviewing research reports and whitepapers
+• Self-directed online learning
+
+CPE Hour Calculation
+• 1 hour of qualifying activity = 1 CPE hour
+• College/university courses: 1 credit hour = 15 CPE hours
+• Partial hours may be rounded to the nearest quarter hour
+
+What Happens if You Don't Meet CPE Requirements?
+• Failure to earn or report the minimum 20 hours per year will result in certification suspension
+• Failure to meet the 120-hour three-year requirement will result in certification revocation
+• A suspended or revoked certification can be reinstated by meeting outstanding requirements and paying applicable fees
+
+Tips for Earning CPE Hours
+• Attend ISACA chapter meetings and events (typically 1-3 CPE hours each)
+• Complete ISACA's free on-demand webinars available in the Knowledge Center
+• Register for ISACA's annual conferences (can earn 20+ CPE hours in a single event)
+• Teach or mentor others in your domain area
+• Write articles for ISACA's ISACA Journal or other professional publications
+
+================================================================================
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA | +1-847-660-5505 | www.isaca.org

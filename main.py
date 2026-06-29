@@ -35,7 +35,7 @@ DATA_DIR = Path(__file__).parent / "isaca_data"
 
 MCP_SERVER_INFO = {
     "name": "isaca-info (Unofficial Community Tool)",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "description": "This is an unofficial community tool, not affiliated with or endorsed by ISACA. Information is based on publicly available content from isaca.org and is under development — always cross-check with isaca.org for the latest and most accurate information.",
 }
 
@@ -46,108 +46,28 @@ TOOLS = [
         "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
     {
-        "name": "about_isaca",
-        "description": "Returns detailed information about ISACA — who they are, what they do, their certifications, membership, and mission.",
+        "name": "certifications",
+        "description": "Complete guide to all ISACA certifications: CISA, CISM, CRISC, CGEIT, CDPSE, CCOA, AAIA, AAISM, and AAIR. Covers what each certification is, exam domains, requirements, fees, and who should pursue it. Also includes an overview of what ISACA is.",
         "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
     {
-        "name": "about_cisa",
-        "description": "Returns detailed information about the CISA (Certified Information Systems Auditor) certification — exam details, eligibility, syllabus, and benefits.",
+        "name": "career_guide",
+        "description": "Career and salary guide for ISACA certifications. Covers average salaries and job titles for each certification, a full comparison table, certification pathways, and a step-by-step guide to choosing the right certification based on your role, experience, and goals.",
         "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
     {
-        "name": "about_cism",
-        "description": "Returns detailed information about the CISM (Certified Information Security Manager) certification — exam details, domains, eligibility, and benefits.",
+        "name": "frameworks",
+        "description": "ISACA frameworks and audit tools. Covers COBIT 2019 — the global IT governance framework — and includes practical ISACA-aligned audit checklists for cloud security, access management, data privacy, network security, and general IT audits.",
         "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
     {
-        "name": "about_crisc",
-        "description": "Returns detailed information about the CRISC (Certified in Risk and Information Systems Control) certification — exam details, domains, eligibility, and benefits.",
+        "name": "membership",
+        "description": "Everything about ISACA membership and professional development. Covers membership fees and benefits, how to find your local ISACA chapter, available training resources, and the CPE (Continuing Professional Education) policy for maintaining certifications.",
         "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
     {
-        "name": "about_cgeit",
-        "description": "Returns detailed information about the CGEIT (Certified in the Governance of Enterprise IT) certification — exam details, domains, eligibility, and benefits.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "get_cobit_data",
-        "description": "Returns detailed information about COBIT (Control Objectives for Information and Related Technologies) — the ISACA framework for governance and management of enterprise IT.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "get_data_certification_exam_prep",
-        "description": "Returns CISA exam preparation resources including official study materials, exam domain breakdowns, study tips, exam format, and CPE requirements.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "get_certification",
-        "description": "Returns information about how to get an ISACA certification — steps, requirements, application process, and tips.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "membership_benefits",
-        "description": "Returns information about ISACA membership benefits, fees, and how to join.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "training_resources",
-        "description": "Returns information about ISACA training options including online courses, instructor-led training, exam prep materials, webinars, and conferences.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "cpe_policy",
-        "description": "Returns ISACA's Continuing Professional Education (CPE) policy — annual requirements, eligible activities, reporting process, and consequences of non-compliance.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "generate_audit_checklist",
-        "description": "Returns ISACA-aligned audit checklists for cloud security, access management, data privacy, network security, and general IT audits.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "about_cdpse",
-        "description": "Returns detailed information about the CDPSE (Certified Data Privacy Solutions Engineer) certification — exam details, domains, eligibility, and benefits.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "about_ccoa",
-        "description": "Returns detailed information about the CCOA (Certified Cybersecurity Operations Analyst) certification — exam details, domains, hands-on tools, eligibility, and benefits.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "about_aaia",
-        "description": "Returns detailed information about the AAIA (Advanced in AI Audit) certification — the world's first advanced AI audit credential, domains, prerequisites, and benefits.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "about_aaism",
-        "description": "Returns detailed information about the AAISM (Advanced in AI Security Management) certification — domains, prerequisites, exam cost, and benefits.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "about_aair",
-        "description": "Returns detailed information about the AAIR (Advanced in AI Risk) certification — domains, prerequisites, exam cost, and benefits.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "isaca_chapters",
-        "description": "Returns information about ISACA local chapters worldwide — how to find your chapter, benefits of joining, events, volunteering, and CPE opportunities.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "certification_salaries",
-        "description": "Returns job market and salary data for all ISACA certifications including average salaries, job titles, and market demand.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "certification_comparison",
-        "description": "Returns a detailed comparison of all ISACA certifications — focus areas, career levels, industries, exam costs, and recommended pathways.",
-        "inputSchema": {"type": "object", "properties": {}, "required": []},
-    },
-    {
-        "name": "which_certification",
-        "description": "Helps users decide which ISACA certification is right for them based on their role, experience level, and career goals.",
+        "name": "getting_certified",
+        "description": "Step-by-step guide to getting ISACA certified. Covers the full certification process, exam registration, study materials, exam preparation tips, domain breakdowns, exam format, and how to maintain your certification after you earn it.",
         "inputSchema": {"type": "object", "properties": {}, "required": []},
     },
 ]
@@ -164,48 +84,16 @@ def run_tool(name: str, arguments: dict = None) -> dict:
     arguments = arguments or {}
     if name == "read_me_first":
         text = read_data_file("read_me_first.txt")
-    elif name == "about_isaca":
-        text = read_data_file("about_isaca.txt")
-    elif name == "about_cisa":
-        text = read_data_file("about_cisa.txt")
-    elif name == "about_cism":
-        text = read_data_file("about_cism.txt")
-    elif name == "about_crisc":
-        text = read_data_file("about_crisc.txt")
-    elif name == "about_cgeit":
-        text = read_data_file("about_cgeit.txt")
-    elif name == "get_cobit_data":
-        text = read_data_file("Cobit.txt")
-    elif name == "get_data_certification_exam_prep":
-        text = read_data_file("exam_prep.txt")
-    elif name == "get_certification":
-        text = read_data_file("ISACA Get certification.txt")
-    elif name == "membership_benefits":
-        text = read_data_file("membership_benefits.txt")
-    elif name == "training_resources":
-        text = read_data_file("training_resources.txt")
-    elif name == "cpe_policy":
-        text = read_data_file("cpe_policy.txt")
-    elif name == "generate_audit_checklist":
-        text = read_data_file("audit_checklists.txt")
-    elif name == "about_cdpse":
-        text = read_data_file("about_cdpse.txt")
-    elif name == "about_ccoa":
-        text = read_data_file("about_ccoa.txt")
-    elif name == "about_aaia":
-        text = read_data_file("about_aaia.txt")
-    elif name == "about_aaism":
-        text = read_data_file("about_aaism.txt")
-    elif name == "about_aair":
-        text = read_data_file("about_aair.txt")
-    elif name == "isaca_chapters":
-        text = read_data_file("isaca_chapters.txt")
-    elif name == "certification_salaries":
-        text = read_data_file("certification_salaries.txt")
-    elif name == "certification_comparison":
-        text = read_data_file("certification_comparison.txt")
-    elif name == "which_certification":
-        text = read_data_file("which_certification.txt")
+    elif name == "certifications":
+        text = read_data_file("group_certifications.txt")
+    elif name == "career_guide":
+        text = read_data_file("group_career_guide.txt")
+    elif name == "frameworks":
+        text = read_data_file("group_frameworks.txt")
+    elif name == "membership":
+        text = read_data_file("group_membership.txt")
+    elif name == "getting_certified":
+        text = read_data_file("group_getting_certified.txt")
     else:
         return None
     return {"type": "text", "text": text}

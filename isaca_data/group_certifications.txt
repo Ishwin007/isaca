@@ -1,0 +1,394 @@
+ISACA CERTIFICATIONS — COMPLETE GUIDE
+================================================================================
+This file covers: About ISACA, CISA, CISM, CRISC, CGEIT, CDPSE, CCOA, AAIA, AAISM, AAIR
+Source: https://www.isaca.org
+================================================================================
+
+
+ABOUT ISACA
+--------------------------------------------------------------------------------
+ISACA is a global professional membership organization that supports people who work in IT audit, cybersecurity, governance, risk management, compliance, and privacy. It has been operating for over 50 years and is recognized worldwide as a leading body in these fields.
+
+ISACA helps professionals grow their careers through certifications, training, research, frameworks, and a large global community. It also helps organizations build stronger, more trustworthy technology practices.
+
+Key Facts
+• 185,000+ members worldwide
+• Presence in 188 countries
+• 231 local chapters across 6 global regions
+• Offices in North America, Europe, and China
+
+What ISACA Offers
+• Globally recognized certifications — CISA, CISM, CRISC, CGEIT, CDPSE, CCOA, and more
+• Training courses, webinars, and conferences
+• Research reports and whitepapers on cybersecurity, governance, and emerging technology
+• Frameworks and standards including COBIT
+• Local chapters for networking and professional development
+• Mentoring programs and career resources
+• Volunteer and leadership opportunities
+
+Who ISACA Serves
+ISACA serves individuals and organizations that work with technology and need to manage it securely, responsibly, and in line with regulations. This includes IT auditors, security professionals, risk managers, compliance officers, privacy engineers, and IT governance leaders.
+
+For more information, visit www.isaca.org
+
+
+================================================================================
+CISA — CERTIFIED INFORMATION SYSTEMS AUDITOR
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/credentialing/cisa
+
+What is CISA?
+CISA is one of the most widely recognized certifications for professionals who audit, monitor, and assess IT systems and business processes. It is designed for individuals who want to demonstrate their ability to evaluate an organization's IT controls, identify risks, and ensure systems are managed securely and effectively.
+
+The certification covers both traditional IT audit practices and emerging technologies such as AI and blockchain, making it relevant for modern audit professionals.
+
+Key Statistics
+• 151,000+ professionals hold the CISA certification
+• Average annual salary: US$149,000+
+• 70% of holders reported improvement in their work after certification
+• 22% received a pay increase after earning CISA
+• 90%+ renewal rate among active CISA holders
+
+Exam Domains
+• Information Systems Auditing Process
+• Governance and Management of Information Technology
+• Information Systems Acquisition, Development and Implementation
+• Information Systems Operations and Business Resilience
+• Protection of Information Assets
+
+Certification Requirements
+• Pass the CISA exam
+• Pay a US$50 application processing fee
+• Submit proof of at least 5 years of relevant work experience
+• Agree to ISACA's Code of Professional Ethics
+• Follow ISACA's Continuing Professional Education (CPE) Policy
+• Comply with Information Systems Auditing Standards
+
+Exam Fees
+• ISACA Member: US$575
+• Non-Member: US$760
+
+Why Pursue CISA?
+• Recognized by employers in over 186 countries
+• Frequently required for senior audit and compliance roles
+• Demonstrates ability to assess and improve IT controls
+• Valuable across industries including banking, healthcare, government, and consulting
+• ANAB accredited — meets international quality and credibility standards
+
+For more information: www.isaca.org/credentialing/cisa
+
+
+================================================================================
+CISM — CERTIFIED INFORMATION SECURITY MANAGER
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/credentialing/cism
+
+CISM is a globally recognized certification for professionals who design, build and manage enterprise information security programs. It validates your ability to manage and govern an organization's information security — going beyond technical skills to focus on strategy and leadership.
+
+Key Statistics
+• Average annual salary: US$149,000+
+• 119,000+ professionals hold CISM
+• 73% experienced on-the-job improvement
+• 26% received a pay boost after certification
+
+Exam Domains
+• Information Security Governance
+• Information Security Risk Management
+• Information Security Program
+• Incident Management
+
+Certification Requirements
+• Pass the CISM certification exam
+• Pay the US$50 application processing fee
+• 5 years of work experience in information security management, with at least 3 years in 3 or more domain areas
+• Adhere to the Code of Professional Ethics
+• Adhere to the Continuing Professional Education (CPE) Policy
+• Substitutions and waivers available for up to 2 years of work experience
+• Candidates have five years from passing the exam to apply
+
+Exam Fees
+• Member: US$575
+• Non-Member: US$760
+
+Why Certify with CISM?
+• Globally recognized management-level certification
+• Demonstrates ability to assess risks and implement effective security programs
+• Validates leadership and strategic thinking in information security
+• Highly sought after by employers across all industries
+• Recognized as one of the top-paying IT certifications worldwide
+• ANAB accredited
+
+For more information: www.isaca.org/credentialing/cism
+
+
+================================================================================
+CRISC — CERTIFIED IN RISK AND INFORMATION SYSTEMS CONTROL
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/credentialing/crisc
+
+CRISC is the only certification that prepares and enables IT professionals to become strategic partners to the business by helping them understand business risk and how IT controls can mitigate that risk. It is the most current and rigorous assessment available for risk management professionals.
+
+Key Statistics
+• Average annual salary: US$151,000+
+• 40,000+ professionals hold CRISC
+• 71% experienced on-the-job improvement
+• 25% received a pay boost after certification
+
+Exam Domains
+• Governance
+• IT Risk Assessment
+• Risk Response and Reporting
+• Information Technology and Security
+
+Certification Requirements
+• Pass the CRISC certification exam
+• Pay the US$50 application processing fee
+• 3 years of cumulative work experience in at least 2 of the 4 CRISC domains, including Domain 1 or 2
+• Adhere to the Code of Professional Ethics
+• Adhere to the Continuing Professional Education (CPE) Policy
+• Candidates have five years from passing the exam to apply
+
+Exam Fees
+• Member: US$575
+• Non-Member: US$760
+
+Why Certify with CRISC?
+• Only certification focused specifically on IT risk and control
+• Bridges the gap between IT and business risk management
+• Highly valued in banking, finance, healthcare, and government
+• Consistently ranked among the highest-paying IT certifications globally
+• ANAB accredited
+
+For more information: www.isaca.org/credentialing/crisc
+
+
+================================================================================
+CGEIT — CERTIFIED IN THE GOVERNANCE OF ENTERPRISE IT
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/credentialing/cgeit
+
+CGEIT recognizes a wide range of professionals for their knowledge and application of enterprise IT governance principles and practices. It is designed for experienced professionals who manage, serve in an advisory or oversight role, or otherwise support governance of IT in an organization.
+
+Exam Domains
+• Governance of Enterprise IT
+• IT Resources
+• Benefits Realization
+• Risk Optimization
+
+Certification Requirements
+• Pass the CGEIT certification exam
+• Pay the US$50 application processing fee
+• 5 years of work experience in the governance of enterprise IT, including at least 1 year in a defining or managing role related to governance frameworks
+• Adhere to the Code of Professional Ethics
+• Adhere to the Continuing Professional Education (CPE) Policy
+• Candidates have five years from passing the exam to apply
+
+Exam Fees
+• Member: US$575
+• Non-Member: US$760
+
+Why Certify with CGEIT?
+• Demonstrates ability to govern and manage IT at an enterprise level
+• Validates strategic alignment of IT with business goals
+• Ideal for CIOs, IT directors, senior managers, and governance consultants
+• Recognized by organizations seeking strong IT governance leadership
+• Proves understanding of frameworks like COBIT in practice
+• ANAB accredited
+
+For more information: www.isaca.org/credentialing/cgeit
+
+
+================================================================================
+CDPSE — CERTIFIED DATA PRIVACY SOLUTIONS ENGINEER
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/credentialing/cdpse
+
+The Certified Data Privacy Solutions Engineer (CDPSE) validates technical expertise in implementing privacy-by-design principles into existing and future systems. CDPSE holders work across departments to develop ethical, human-centered privacy solutions in a complex regulatory environment.
+
+Key Statistics
+• 16,000+ professionals hold CDPSE
+• Average annual salary: US$150,000+
+
+Exam Domains
+• Privacy Governance
+• Privacy Risk Management and Compliance
+• Data Life Cycle Management
+• Privacy Engineering
+
+Certification Requirements
+• Pass the CDPSE certification exam
+• Pay the US$50 application processing fee
+• Minimum 3 years of relevant work experience
+• Adhere to the Code of Professional Ethics
+• Adhere to the Continuing Professional Education (CPE) Policy
+• Candidates have five years from passing the exam to apply
+
+Exam Fees
+• Member: US$575
+• Non-Member: US$760
+
+Who Should Pursue CDPSE?
+• Privacy engineers and architects
+• Data protection officers (DPOs)
+• IT professionals implementing GDPR or other privacy regulations
+• Developers building privacy-compliant systems
+• Security professionals expanding into privacy
+
+Why Certify with CDPSE?
+• Only certification focused on the technical implementation of privacy
+• Demonstrates ability to embed privacy into systems from the ground up
+• Highly valued in industries handling personal data — healthcare, finance, retail, tech
+• Validates knowledge of GDPR, CCPA, and other global privacy regulations
+• ANAB accredited
+
+For more information: www.isaca.org/credentialing/cdpse
+
+
+================================================================================
+CCOA — CERTIFIED CYBERSECURITY OPERATIONS ANALYST
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/credentialing/ccoa
+
+Launched in 2025, the Certified Cybersecurity Operations Analyst (CCOA) is a technical credential that validates expertise in evaluating threats, identifying vulnerabilities, and recommending countermeasures. It focuses on real-world, hands-on skills for analyzing, detecting, and responding to cyber incidents.
+
+Who is CCOA For?
+• Cybersecurity analysts
+• Information security analysts
+• SOC (Security Operations Center) analysts
+• Vulnerability analysts
+• Incident response analysts
+• Professionals new to cybersecurity (no experience requirement)
+
+Exam Domains
+• Technology Essentials — foundational technology knowledge
+• Cybersecurity Principles and Risks — core security concepts
+• Adversarial Tactics, Techniques and Procedures — threat actor methodologies (MITRE ATT&CK)
+• Incident Detection and Response — identifying and managing security events
+• Securing Assets — protection and defense strategies
+
+Exam Format
+• Duration: 4 hours
+• Hybrid format combining multiple-choice and performance-based questions
+• Candidates demonstrate proficiency with 30+ open-source tools including Wireshark, Security Onion, CyberChef, Kibana, and various Linux/Windows utilities
+
+Exam Fees
+• Member: US$399
+• Non-Member: US$499
+• Application Processing Fee: US$50
+
+Why Certify with CCOA?
+• First certification combining theory and hands-on tool proficiency for SOC analysts
+• No experience requirement — great entry point for cybersecurity careers
+• Lower exam cost than most ISACA certifications
+• Launched in 2025 — early adopters gain a competitive advantage
+• Ideal stepping stone before pursuing CISM or CRISC
+
+For more information: www.isaca.org/credentialing/ccoa
+
+
+================================================================================
+AAIA — ADVANCED IN AI AUDIT
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/credentialing/aaia
+
+The World's First Advanced AI Audit Certification. AAIA is designed for IT auditors and advisors to develop expertise in assessing artificial intelligence systems. It equips professionals to evaluate AI governance, risks, and controls within organizations adopting AI technologies.
+
+Exam Domains
+• AI Governance and Risk
+• AI Operations
+• AI Auditing Tools and Techniques
+
+Prerequisites — Who Can Apply?
+Candidates must hold one of the following active designations:
+• CISA (all holders qualify automatically)
+• CIA (Certified Internal Auditor)
+• US CPA, Canadian CPA, Australian CPA/FCPA, Japanese CPA
+• ACCA/FCCA
+• Other recognized international accounting/audit certifications with IT audit/advisory role focus
+
+Note: Candidates not yet holding a qualifying designation should consider earning CISA first.
+
+Exam Fees
+• Member: US$459
+• Non-Member: US$599
+• Application Processing Fee: US$50
+
+Why Pursue AAIA?
+• World's first advanced certification dedicated to AI auditing
+• Validates ability to audit AI systems, models, and governance frameworks
+• Addresses one of the fastest-growing risk areas organizations face today
+• Demonstrates career relevance as AI becomes central to business operations
+• Highly valued by internal audit teams, regulators, and advisory firms
+• Builds on existing audit credentials with specialized AI knowledge
+
+For more information: www.isaca.org/credentialing/aaia
+
+
+================================================================================
+AAISM — ADVANCED IN AI SECURITY MANAGEMENT
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/credentialing/aaism
+
+The first and only AI-centric security management certification. AAISM is designed for experienced security professionals to manage evolving security risks related to AI, implement policy, and ensure responsible organizational use of AI technologies.
+
+Exam Domains
+• AI Governance and Program Management — managing AI initiatives across the enterprise
+• AI Risk Management — identifying, assessing, monitoring, and mitigating AI-related threats
+• AI Technologies and Controls — understanding AI systems and their security controls
+
+Prerequisites — Who Can Apply?
+Candidates must hold one of the following active certifications:
+• CISM (Certified Information Security Manager)
+• CISSP (Certified Information Systems Security Professional)
+
+Exam Fees
+• Member: US$459
+• Non-Member: US$599
+• Application Processing Fee: US$50
+
+Why Pursue AAISM?
+• Only certification specifically focused on AI security management
+• Validates ability to protect organizations against AI-specific threats
+• Addresses growing demand for security leaders who understand AI risks
+• Complements CISM by adding specialized AI security expertise
+• Demonstrates readiness to advise boards and executives on AI security posture
+
+For more information: www.isaca.org/credentialing/aaism
+
+
+================================================================================
+AAIR — ADVANCED IN AI RISK
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/credentialing/aair
+
+The Advanced in AI Risk (AAIR) is a practice-driven credential designed for experienced IT risk professionals. It enables practitioners to work cross-functionally to recommend responses to AI risk while developing expertise in AI technologies and their unique challenges.
+
+Exam Domains
+• AI Risk Governance and Framework Integration — establishing governance structures for AI-related risks
+• AI Life Cycle Risk Management — managing risks throughout AI system development and deployment
+• AI Risk Program Management — building and maintaining comprehensive AI risk programs
+
+Prerequisites — Who Can Apply?
+Candidates must hold one of the following active designations:
+ISACA Certifications: CISA, CISM, CRISC, CGEIT, or CDPSE
+Global Designations: CRMP, CISSP, CIA, CPA (US/Canadian/Japanese), CGMA, ACCA, ACA, CA ANZ, CPA HKICPA, PMI-RMP, and other recognized risk management credentials
+
+Note: Candidates not yet holding a qualifying designation should consider earning CRISC first.
+
+Exam Fees
+• Member: US$459
+• Non-Member: US$599
+• Application Processing Fee: US$50
+
+Why Pursue AAIR?
+• Specifically designed for risk professionals navigating AI adoption
+• Validates ability to assess and manage risks across the full AI lifecycle
+• Addresses one of the most in-demand skill sets as organizations deploy AI
+• Complements CRISC by adding specialized AI risk expertise
+• Demonstrates ability to advise leadership on AI governance and risk frameworks
+• Recognized globally by organizations managing AI-related regulatory requirements
+
+For more information: www.isaca.org/credentialing/aair
+
+================================================================================
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA | +1-847-660-5505 | www.isaca.org

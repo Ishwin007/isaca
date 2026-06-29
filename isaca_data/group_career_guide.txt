@@ -1,0 +1,271 @@
+ISACA CAREER GUIDE — SALARIES, COMPARISONS & CHOOSING YOUR CERTIFICATION
+================================================================================
+This file covers: Certification salary data, comparison of all certifications, and how to choose the right one.
+Source: https://www.isaca.org/credentialing
+================================================================================
+
+
+CERTIFICATION SALARIES AND JOB MARKET DATA
+--------------------------------------------------------------------------------
+
+ISACA certifications are consistently ranked among the highest-paying IT credentials in the world. Below is a summary of salary data and job market demand for each certification.
+
+CISA — Certified Information Systems Auditor
+• Average Annual Salary: US$149,000+
+• Job Titles: IT Auditor, IS Auditor, Audit Manager, Compliance Analyst, Risk Analyst
+• On-the-Job Improvement Reported: 70% of holders
+• Pay Boost After Certification: 22% of holders received a raise
+• Demand: High — required by many government agencies, banks, and enterprises globally
+
+CISM — Certified Information Security Manager
+• Average Annual Salary: US$149,000+
+• Job Titles: Information Security Manager, CISO, Security Director, IT Security Consultant
+• On-the-Job Improvement Reported: 73% of holders
+• Pay Boost After Certification: 26% of holders received a raise
+• Demand: Very High — one of the most sought-after management-level security credentials
+
+CRISC — Certified in Risk and Information Systems Control
+• Average Annual Salary: US$151,000+
+• Job Titles: IT Risk Manager, Risk Analyst, GRC Analyst, Compliance Officer, Risk Consultant
+• On-the-Job Improvement Reported: 71% of holders
+• Pay Boost After Certification: 25% of holders received a raise
+• Demand: Very High — especially in banking, finance, insurance, and regulated industries
+
+CDPSE — Certified Data Privacy Solutions Engineer
+• Average Annual Salary: US$150,000+
+• Job Titles: Privacy Engineer, Data Protection Officer, Privacy Architect, Privacy Analyst
+• Demand: Rapidly growing — driven by GDPR, CCPA, and expanding global privacy regulations
+
+CGEIT — Certified in the Governance of Enterprise IT
+• Average Annual Salary: US$130,000+
+• Job Titles: IT Director, CIO, Enterprise Architect, IT Governance Manager, Senior IT Consultant
+• Demand: Moderate-High — valued by senior leadership and board-level advisory roles
+
+CCOA — Certified Cybersecurity Operations Analyst
+• Average Annual Salary: Emerging — certification launched in 2025
+• Job Titles: SOC Analyst, Cybersecurity Analyst, Incident Response Analyst, Threat Analyst
+• Demand: Very High — cybersecurity operations roles are among the fastest growing in tech
+• Exam Cost: Lower than other ISACA certs (US$399 member) — great entry point
+
+AAIA — Advanced in AI Audit
+• Average Annual Salary: Premium over base CISA/CIA salary expected
+• Job Titles: AI Auditor, AI Governance Specialist, Technology Risk Advisor
+• Demand: Rapidly emerging — organizations are scrambling to audit AI systems
+• Requires: Active CISA or equivalent audit qualification
+
+AAIR — Advanced in AI Risk
+• Average Annual Salary: Premium over base CRISC/risk salary expected
+• Job Titles: AI Risk Manager, AI Governance Analyst, Technology Risk Director
+• Demand: Rapidly emerging — AI risk is one of the top concerns for boards globally
+• Requires: Active CRISC, CISM, CISA, or equivalent
+
+AAISM — Advanced in AI Security Management
+• Average Annual Salary: Premium over base CISM salary expected
+• Job Titles: AI Security Manager, AI Security Director, CISO (AI focus)
+• Demand: Rapidly emerging — protecting AI systems is a new frontier in security
+• Requires: Active CISM or CISSP
+
+General Market Trends
+• ISACA reports a 90%+ renewal rate across all certifications — indicating strong career value
+• Members save 25% on exam fees — making membership worthwhile if pursuing any certification
+• 300,000+ ISACA certifications awarded across 186 countries
+• AI-related certifications (AAIA, AAIR, AAISM) are expected to see significant salary premiums as AI governance becomes a regulatory requirement globally
+• The cybersecurity talent gap continues to grow — ISACA's State of Cybersecurity report consistently shows demand outpacing supply
+
+Note: Salary figures are approximate averages based on ISACA's published data. Actual salaries vary by country, industry, experience level, and organization size.
+
+
+================================================================================
+CERTIFICATION COMPARISON GUIDE
+--------------------------------------------------------------------------------
+
+Quick Comparison Table
+
+Certification | Focus Area          | Level        | Best For                   | Prerequisite
+CISA          | IT Audit & Assurance | Professional | Auditors, compliance teams | None (5 yrs work exp)
+CISM          | Security Management  | Professional | Security managers, CISOs   | None (5 yrs work exp)
+CRISC         | IT Risk Management   | Professional | Risk managers, GRC analysts| None (3 yrs work exp)
+CGEIT         | IT Governance        | Professional | CIOs, IT directors         | None (5 yrs work exp)
+CDPSE         | Privacy Engineering  | Professional | Privacy engineers, DPOs    | None (3 yrs work exp)
+CCOA          | Cybersecurity Ops    | Professional | SOC analysts               | None
+AAIA          | AI Audit             | Advanced     | Senior auditors            | CISA or equivalent
+AAIR          | AI Risk              | Advanced     | Senior risk professionals  | CRISC, CISM, or equivalent
+AAISM         | AI Security Mgmt     | Advanced     | Senior security managers   | CISM or CISSP
+
+BY FOCUS AREA
+
+Audit & Assurance
+• CISA — the gold standard for IT auditors. Covers audit process, governance, operations, and asset protection.
+
+Security
+• CISM — management-level. Focuses on building and governing security programs.
+• CCOA — technical, hands-on. Focuses on SOC work, threat detection, and incident response.
+• AAISM — advanced AI security. Builds on CISM with AI-specific security management.
+
+Risk Management
+• CRISC — the leading IT risk certification. Bridges IT and business risk.
+• AAIR — advanced AI risk. Builds on CRISC with AI lifecycle risk management.
+
+Governance
+• CGEIT — enterprise IT governance at the senior/board level.
+
+Privacy
+• CDPSE — technical implementation of privacy into systems.
+
+AI (Advanced)
+• AAIA — auditing AI systems (requires CISA)
+• AAIR — managing AI risk (requires CRISC or equivalent)
+• AAISM — securing AI (requires CISM or CISSP)
+
+BY CAREER LEVEL
+
+Early Career (0-3 years experience)
+• CCOA — no experience requirement, hands-on cyber focus, lower exam cost
+• Start studying for CISA, CISM, or CRISC while building work experience
+
+Mid Career (3-7 years experience)
+• CISA — if you work in audit, compliance, or assurance
+• CISM — if you work in security management or want to move into it
+• CRISC — if you work in IT risk, GRC, or compliance
+• CDPSE — if you work in privacy, data protection, or engineering
+
+Senior Career (7+ years experience)
+• CGEIT — if you are in or moving toward IT leadership or board advisory
+• AAIA — if you are a senior auditor wanting AI specialization
+• AAIR — if you are a senior risk professional wanting AI specialization
+• AAISM — if you are a security leader wanting AI security expertise
+
+BY INDUSTRY
+
+Banking & Finance: CRISC, CISA, CISM
+Healthcare: CISA, CDPSE, CRISC
+Technology Companies: CISM, CDPSE, CCOA, AAISM
+Government & Public Sector: CISA, CRISC, CGEIT
+Consulting & Advisory: CISA, CISM, CRISC, CGEIT
+Startups & AI Companies: CCOA, AAIA, AAIR, AAISM
+
+Exam Cost Comparison
+
+Certification | Member Price | Non-Member Price
+CISA          | US$575       | US$760
+CISM          | US$575       | US$760
+CRISC         | US$575       | US$760
+CGEIT         | US$575       | US$760
+CDPSE         | US$575       | US$760
+CCOA          | US$399       | US$499
+AAIA          | US$459       | US$599
+AAIR          | US$459       | US$599
+AAISM         | US$459       | US$599
+
+Tip: ISACA membership (US$135/year) saves you US$185 per CISA/CISM/CRISC/CGEIT/CDPSE exam — paying for itself after one exam.
+
+Certification Pathways
+
+Pathway 1 — The Auditor Track: CISA → AAIA (AI Audit)
+Pathway 2 — The Security Track: CCOA → CISM → AAISM (AI Security)
+Pathway 3 — The Risk Track: CRISC → AAIR (AI Risk)
+Pathway 4 — The Governance Track: CISA or CISM → CGEIT
+Pathway 5 — The Privacy Track: CDPSE (can be earned alongside any other certification)
+
+
+================================================================================
+WHICH ISACA CERTIFICATION IS RIGHT FOR ME?
+--------------------------------------------------------------------------------
+
+Use this guide to find the best ISACA certification based on your current role, career goals, and experience level.
+
+STEP 1 — WHAT IS YOUR CURRENT ROLE?
+
+I work in IT Audit or Internal Audit
+→ Start with CISA. It is the global standard for IT auditors and the most recognized audit credential in the world.
+→ After CISA: Consider AAIA (AI Audit) to specialize in auditing artificial intelligence systems.
+
+I work in Information Security or Cybersecurity
+→ If you are in a management or leadership role: Start with CISM.
+→ If you are a hands-on analyst working in a SOC: Start with CCOA.
+→ After CISM: Consider AAISM (AI Security Management) for AI-specific expertise.
+
+I work in IT Risk Management or GRC (Governance, Risk, Compliance)
+→ Start with CRISC. It is the leading certification for IT risk professionals.
+→ After CRISC: Consider AAIR (AI Risk) to specialize in managing AI-related risks.
+
+I work in IT Governance or Senior IT Leadership (CIO, IT Director)
+→ Start with CGEIT. It is designed for professionals governing enterprise IT at a strategic level.
+→ Consider CISA or CISM first if you don't already hold one.
+
+I work in Data Privacy or Data Protection
+→ Start with CDPSE. It is the only technical privacy certification focused on implementing privacy by design.
+→ Pairs well with CISA or CRISC.
+
+I am new to cybersecurity or just starting out
+→ Start with CCOA. It has no experience requirement, a lower exam cost, and focuses on practical, hands-on skills used daily in cybersecurity roles.
+
+I want to specialize in Artificial Intelligence
+→ If you are an auditor: Earn CISA first, then pursue AAIA.
+→ If you are in risk: Earn CRISC first, then pursue AAIR.
+→ If you are in security management: Earn CISM first, then pursue AAISM.
+
+STEP 2 — WHAT IS YOUR EXPERIENCE LEVEL?
+
+0-2 Years of Experience
+→ Best option: CCOA (no experience requirement)
+→ Start building experience toward CISA, CISM, or CRISC
+→ Consider student ISACA membership while studying
+
+3-5 Years of Experience
+→ CISA — if in audit, compliance, or assurance
+→ CISM — if in security or moving into security management
+→ CRISC — if in risk, GRC, or compliance
+→ CDPSE — if in privacy, data protection, or technical roles
+
+5+ Years of Experience
+→ CGEIT — for senior IT leaders and governance professionals
+→ AAIA, AAIR, or AAISM — for specialists wanting advanced AI credentials
+
+STEP 3 — WHAT IS YOUR GOAL?
+
+I want a pay raise
+→ CRISC holders report the highest average salaries (US$151K+)
+→ CISM and CISA are close behind (US$149K+)
+→ All three are proven to result in pay increases for a significant portion of holders
+
+I want to move into management
+→ CISM is the clearest path to security management and CISO roles
+→ CGEIT for IT governance and board-level advisory
+
+I want to be recognized globally
+→ CISA is the most globally recognized ISACA certification — accepted in 186 countries
+→ CISM is a close second for global recognition
+
+I want to specialize in a growing area
+→ AI certifications (AAIA, AAIR, AAISM) — fastest growing demand
+→ CDPSE — growing demand driven by global privacy regulations
+→ CCOA — cybersecurity operations roles are among the fastest growing in tech
+
+RECOMMENDED STARTING POINTS BY PROFILE
+
+Profile                           | Recommended First Certification
+IT Auditor                        | CISA
+Internal Auditor (non-IT)         | CISA
+Security Analyst / SOC Analyst    | CCOA
+Security Manager                  | CISM
+Risk Manager / GRC Analyst        | CRISC
+Privacy Professional              | CDPSE
+IT Director / CIO                 | CGEIT
+Student / Career Changer          | CCOA
+AI Professional (Audit focus)     | CISA → AAIA
+AI Professional (Risk focus)      | CRISC → AAIR
+AI Professional (Security focus)  | CISM → AAISM
+
+PRACTICAL TIPS
+
+1. Become an ISACA member first — saves US$185 per exam for CISA/CISM/CRISC/CGEIT/CDPSE
+2. Use ISACA's official review manuals and question banks — they are the most aligned with the exam
+3. Join your local ISACA chapter — study groups, networking, and CPE opportunities
+4. You do not need to pass the exam before applying for membership — join first, save on the exam
+5. Check the work experience requirements for your chosen certification before registering
+
+For personalized guidance, visit www.isaca.org/credentialing or contact your local ISACA chapter.
+
+================================================================================
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA | +1-847-660-5505 | www.isaca.org

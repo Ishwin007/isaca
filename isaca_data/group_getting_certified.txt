@@ -1,0 +1,158 @@
+GETTING ISACA CERTIFIED — COMPLETE GUIDE
+================================================================================
+This file covers: How to get certified, exam process, study preparation, and exam tips.
+Source: https://www.isaca.org/credentialing
+================================================================================
+
+
+HOW TO GET AN ISACA CERTIFICATION
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/credentialing
+
+ISACA has awarded 300,000+ certifications across 186 countries. ISACA certifications validate your expertise, boost your earning potential, and are recognized by employers worldwide.
+
+Active Professional Certifications
+
+1. CISA — Certified Information Systems Auditor
+   The global standard for IT audit, assurance, and control professionals.
+
+2. CISM — Certified Information Security Manager
+   For professionals who manage, design, and oversee enterprise information security programs.
+
+3. CRISC — Certified in Risk and Information Systems Control
+   For IT risk management professionals who bridge IT and business risk.
+
+4. CGEIT — Certified in the Governance of Enterprise IT
+   For professionals who manage or advise on enterprise IT governance.
+
+5. CDPSE — Certified Data Privacy Solutions Engineer
+   For technical professionals who implement privacy by design in systems and applications.
+
+6. CCOA — Certified Cybersecurity Operations Analyst
+   For cybersecurity analysts working in security operations centers (SOC).
+
+7. AAIA — Advanced in AI Audit
+   For auditors specializing in auditing artificial intelligence systems and processes.
+
+8. AAIR — Advanced in AI Risk
+   For risk professionals focused on managing risks associated with AI technologies.
+
+9. AAISM — Advanced in AI Security Management
+   For security managers overseeing AI security programs and frameworks.
+
+Certificate Programs (Foundational Level)
+ISACA also offers certificates for foundational knowledge in:
+• AI Fundamentals
+• Blockchain Fundamentals
+• Cloud Fundamentals
+• COBIT 2019 Foundation and Design & Implementation
+• Cybersecurity Audit
+• Cybersecurity Fundamentals
+• Data Science Fundamentals
+• Digital Trust Ecosystem Framework Foundation
+• IoT Fundamentals
+• IT Audit Fundamentals
+• IT Risk Fundamentals
+
+How to Get Certified — Step by Step
+
+1. Choose the certification that aligns with your career goals
+2. Create or log in to your ISACA account at www.isaca.org
+3. Register and pay for the exam (members receive a 25% discount)
+4. Study using ISACA's official review manuals and question banks
+5. Schedule your exam through the PSI testing portal (available online or at test centers)
+6. Pass the exam within your six-month eligibility window
+7. Submit your work experience application and pay the US$50 processing fee
+8. Maintain your certification by earning annual CPE hours
+
+Key Facts About ISACA Exams
+• Members save 25% on all certification exams
+• 90%+ renewal rate among certification holders
+• Digital badges available for all certifications
+• Exams available at PSI test centers worldwide or via remote proctoring
+• CPE hours required annually to maintain active certification status
+• Six-month eligibility window from registration to sit the exam
+• Rescheduling available with no penalty if done at least 48 hours before the appointment
+
+
+================================================================================
+EXAM PREPARATION — STUDY GUIDE
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/credentialing/cisa
+
+This guide summarizes the key resources, study tips, and exam details to help you prepare. While written with CISA in mind, most tips apply to all ISACA certifications.
+
+Official Study Materials from ISACA
+
+1. Review Manual
+A comprehensive study guide covering all exam domains in detail. Updated regularly to stay aligned with the current exam syllabus. Available in print and digital formats.
+CISA Price: Member US$119 / Non-Member US$179
+
+2. Questions, Answers and Explanations (QAE) Database
+A bank of over 1,000 practice questions with detailed explanations for each answer. Organized by domain so you can focus on areas where you need more practice. Available through ISACA's online learning platform.
+CISA Price: Member US$149 / Non-Member US$199
+
+3. Online Review Course
+A self-paced online course covering all domains through video lessons, exercises, and quizzes. Earns CPE credits on completion.
+CISA Price: Member US$499 / Non-Member US$649
+
+4. Practice Exam
+A full 150-question timed mock exam that simulates the real test experience. Includes a domain-level performance report to identify weak areas.
+CISA Price: Member US$99 / Non-Member US$139
+
+CISA Exam Domain Breakdown
+
+Domain 1 — Information Systems Auditing Process (18%)
+Covers how to plan, conduct, and report IT audits using risk-based approaches. Includes audit standards, gathering evidence, and following up on findings.
+
+Domain 2 — Governance and Management of IT (18%)
+Covers IT governance frameworks, how IT strategy aligns with business goals, policy development, risk management, and performance monitoring.
+
+Domain 3 — Information Systems Acquisition, Development and Implementation (12%)
+Covers project management, software development lifecycles, testing practices, change management, and release controls.
+
+Domain 4 — Information Systems Operations and Business Resilience (26%)
+Covers IT operations, capacity planning, incident management, business continuity, disaster recovery, and data backup strategies.
+
+Domain 5 — Protection of Information Assets (26%)
+Covers access control, network and endpoint security, cryptography, physical security, cloud security, and data privacy requirements.
+
+Study Tip: Domains 4 and 5 together make up 52% of the CISA exam. Spend more time on these two areas.
+
+Free Resources Available
+
+• Exam Content Outline — A free document from isaca.org that lists every topic covered in the exam and how much weight each carries. Use this as your study roadmap.
+• ISACA Knowledge Center — Free access to articles, research papers, and guidance documents on audit and security topics.
+• ISACA Community — Online forums and peer discussion groups at community.isaca.org
+• Free Webinars — ISACA regularly runs no-cost webinars that also count toward CPE hours.
+
+Study Tips (apply to all ISACA certifications)
+
+1. Start by downloading the Exam Content Outline from isaca.org and build your study schedule around it.
+2. Spend the most time on the domains with the highest exam weightings.
+3. Practice with QAE questions regularly — focus on understanding why an answer is correct, not just memorizing it. ISACA exams use scenario-based questions.
+4. Take a full timed practice exam at least two weeks before your exam date to identify gaps.
+5. Join a local ISACA chapter or online study group to stay motivated and learn from others.
+6. Allow 3 to 6 months for preparation depending on your current experience level.
+
+Exam Format (CISA)
+
+• Format: Computer-based at PSI testing centers worldwide or via online remote proctoring
+• Number of Questions: 150 multiple-choice questions
+• Time Allowed: 4 hours
+• Passing Score: 450 out of 800
+• Available Languages: English, Chinese (Simplified), Spanish, French, German, Hebrew, Italian, Japanese, Korean, and Turkish
+
+Maintaining Your Certification After You Earn It
+
+Once certified, you must keep your certification active by earning Continuing Professional Education (CPE) hours:
+• At least 20 CPE hours per calendar year
+• At least 120 CPE hours over each 3-year certification period
+• Annual maintenance fee applies (US$45 for members, US$85 for non-members per certification)
+• Not meeting CPE requirements can result in certification suspension or revocation
+
+For more information, visit www.isaca.org/credentialing
+Contact: certification@isaca.org | +1-847-660-5505
+
+================================================================================
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA | +1-847-660-5505 | www.isaca.org

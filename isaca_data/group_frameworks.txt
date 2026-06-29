@@ -1,0 +1,257 @@
+ISACA FRAMEWORKS AND AUDIT TOOLS
+================================================================================
+This file covers: COBIT framework and ISACA-aligned audit checklists.
+Source: https://www.isaca.org
+================================================================================
+
+
+COBIT — CONTROL OBJECTIVES FOR INFORMATION AND RELATED TECHNOLOGIES
+--------------------------------------------------------------------------------
+Source: https://www.isaca.org/resources/cobit
+
+COBIT is the premier globally recognized framework for the governance and management of enterprise information and technology (IT). With thirty years of empowering enterprise IT, COBIT helps organizations drive innovation and value in a changing world while maintaining confidence in their information and technology.
+
+What is COBIT?
+COBIT provides a structured set of principles, processes, and best practices for governing and managing IT across an enterprise. It bridges the gap between business objectives and IT operations. It is used by:
+• IT managers and CIOs
+• Internal and external auditors
+• Risk managers and security professionals
+• Business executives and board members
+• Compliance and governance teams
+
+Main Objectives
+COBIT helps organizations:
+• Align IT strategy with business strategy
+• Deliver value from IT investments
+• Manage IT-related risks effectively
+• Optimize resources — people, applications, infrastructure, and data
+• Measure and improve IT performance
+• Ensure compliance with laws and regulations
+
+COBIT 2019
+The current version is COBIT 2019, which is more flexible and customizable than earlier versions. It introduces:
+• 40 Governance and Management Objectives
+• Design factors for tailoring the governance system to your organization
+• Focus areas such as cybersecurity, cloud, DevOps, and digital transformation
+• Performance management using capability and maturity concepts
+• A Design Guide and Implementation Guide for practical use
+
+Key Components of a COBIT Governance System
+• Processes: Activities that achieve governance and management objectives
+• Organizational Structures: Decision-making bodies and reporting relationships
+• Policies and Procedures: Rules that guide IT operations
+• Information: Data required to support governance decisions
+• Culture, Ethics, and Behavior: Encourages responsible IT usage
+• People, Skills, and Competencies: Ensures employees have appropriate capabilities
+• Services, Infrastructure, and Applications: Technology assets supporting the business
+
+Governance vs. Management
+COBIT clearly distinguishes between governance and management:
+
+Governance:
+• Evaluates stakeholder needs
+• Sets direction and priorities
+• Monitors performance against goals
+• Typically led by the board or executive leadership
+
+Management:
+• Plans and executes activities
+• Implements the direction set by governance
+• Operates day-to-day IT functions
+• Typically led by senior management (CIO, IT directors)
+
+Integration with Other Frameworks
+COBIT is specifically designed to work alongside other industry standards and frameworks, including:
+• NIST Cybersecurity Framework
+• ISO/IEC 27001 (Information Security)
+• Sarbanes-Oxley (SOX) compliance
+• ITIL (IT Service Management)
+• DevOps and Agile practices
+
+COBIT Certificates and Training
+ISACA offers two COBIT certificates:
+• COBIT 2019 Foundation Certificate — introduces the framework's core concepts
+• COBIT 2019 Design & Implementation Certificate — focuses on applying COBIT in practice
+
+Training is available through ISACA and its accredited training partners worldwide.
+
+
+================================================================================
+ISACA AUDIT CHECKLISTS
+--------------------------------------------------------------------------------
+Source: ISACA COBIT and Audit Standards
+
+Disclaimer: These checklists are illustrative and ISACA-aligned but should be tailored to the specific scope, risk, and environment of the engagement. For educational use only.
+
+---
+
+CLOUD SECURITY AUDIT CHECKLIST
+
+1. Cloud Governance & Strategy
+   Verify cloud adoption aligns with governance, risk appetite, and documented strategy.
+
+2. Shared Responsibility Model
+   Confirm the cloud provider/customer responsibility split is documented and understood.
+
+3. Data Classification & Encryption
+   Verify data is classified and encrypted at rest and in transit.
+
+4. Identity & Access for Cloud Resources
+   Assess IAM roles, least privilege, and federation for cloud consoles and APIs.
+
+5. Network Controls
+   Review security groups, segmentation, and exposure of public endpoints.
+
+6. Logging & Monitoring
+   Confirm cloud audit logs, alerting, and incident response coverage are in place.
+
+7. Cloud Provider Assurance
+   Review cloud provider certifications (SOC 2, ISO 27001) and contractual security obligations.
+
+8. Backup & Resilience
+   Assess backup, disaster recovery, and continuity for cloud workloads.
+
+9. Configuration Management
+   Evaluate baseline configurations and cloud security posture management (CSPM).
+
+10. Data Residency & Sovereignty
+    Verify compliance with data location and regulatory requirements.
+
+---
+
+ACCESS MANAGEMENT AUDIT CHECKLIST
+
+1. Access Policy & Standards
+   Confirm an approved access control policy exists and is current.
+
+2. Provisioning & De-provisioning
+   Test joiner/mover/leaver processes for timeliness and approval.
+
+3. Least Privilege & Role-Based Access Control (RBAC)
+   Assess role design and confirm access maps to job function.
+
+4. Privileged Access Management
+   Review controls over admin and privileged accounts including vaulting and session monitoring.
+
+5. Access Recertification
+   Verify periodic access reviews are performed and exceptions remediated.
+
+6. Authentication Controls
+   Assess multi-factor authentication (MFA) coverage and password/credential policy enforcement.
+
+7. Segregation of Duties (SoD)
+   Identify and evaluate SoD conflicts and compensating controls.
+
+8. Access Logging & Monitoring
+   Confirm authentication and access events are logged and reviewed.
+
+9. Dormant & Orphaned Accounts
+   Test for stale, shared, or unowned accounts.
+
+10. Third-Party Access
+    Review vendor and contractor access scope, approval processes, and removal procedures.
+
+---
+
+DATA PRIVACY AUDIT CHECKLIST
+
+1. Privacy Policy & Regulatory Mapping
+   Confirm policies map to applicable laws such as GDPR and local privacy regulations.
+
+2. Data Inventory & Flow Mapping
+   Verify personal data is inventoried and data flows are documented.
+
+3. Consent Management
+   Assess capture, storage, and withdrawal of user consent.
+
+4. Data Subject Rights
+   Test processes for access, correction, and erasure requests from individuals.
+
+5. Data Minimization & Retention
+   Verify retention schedules and proper disposal of personal data.
+
+6. Protection Controls
+   Assess encryption, masking, and access restrictions on personal data.
+
+7. Processor Agreements
+   Review third-party data processing agreements and security safeguards.
+
+8. Breach Notification
+   Evaluate breach detection and regulatory notification procedures and timelines.
+
+9. Privacy by Design
+   Confirm privacy considerations are included in system and change design processes.
+
+10. Privacy Impact Assessments (DPIA)
+    Verify Data Protection Impact Assessments are performed for high-risk processing activities.
+
+---
+
+NETWORK SECURITY AUDIT CHECKLIST
+
+1. Network Architecture & Policy
+   Confirm an approved network security architecture and standards document exists.
+
+2. Firewall Management
+   Review firewall rules, change control processes, and periodic rule reviews.
+
+3. Network Segmentation
+   Assess segmentation between trust zones and critical assets.
+
+4. Intrusion Detection/Prevention (IDS/IPS)
+   Verify IDS/IPS deployment, tuning, and alert response.
+
+5. Remote Access & VPN
+   Assess secure remote access controls, MFA enforcement, and split-tunneling restrictions.
+
+6. Wireless Security
+   Review wireless authentication, encryption standards, and rogue access point detection.
+
+7. Vulnerability & Patch Management
+   Evaluate scanning cadence and remediation timelines (SLAs).
+
+8. Monitoring & Logging
+   Confirm network telemetry is collected, retained, and regularly reviewed.
+
+9. DDoS & Availability Controls
+   Assess protections for availability of critical network services.
+
+10. Device Hardening
+    Review baseline hardening standards for routers, switches, and network appliances.
+
+---
+
+GENERAL IT AUDIT CHECKLIST (use when no specific domain is identified)
+
+1. Governance & Policy
+   Confirm approved policies and standards exist for the domain under review.
+
+2. Roles & Responsibilities
+   Verify ownership and accountability are clearly defined.
+
+3. Risk Assessment
+   Assess whether domain risks are identified, rated, and tracked.
+
+4. Control Design & Operation
+   Evaluate key controls for design effectiveness and operating effectiveness.
+
+5. Logging & Monitoring
+   Confirm relevant activity is logged, alerted on, and reviewed regularly.
+
+6. Segregation of Duties
+   Identify SoD conflicts and verify compensating controls are in place.
+
+7. Compliance
+   Assess alignment with applicable laws, regulations, and frameworks such as COBIT.
+
+8. Incident Management
+   Review detection, response, and escalation processes for incidents.
+
+9. Change Management
+   Verify changes are authorized, tested, and properly documented.
+
+10. Documentation & Evidence
+    Confirm records are retained to support audit evidence requirements.
+
+================================================================================
+1700 E. Golf Road, Suite 400, Schaumburg, Illinois 60173, USA | +1-847-660-5505 | www.isaca.org
